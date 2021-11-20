@@ -1,7 +1,7 @@
 /* Color customization */
 :root {
-  --primary: #f9c412;
-  --primary-dark: #e7bf60;
+  --primary: #12d6f9;
+  --primary-dark: #e76060;
 }
 
 .test-dead-code-elimination-sentinel {

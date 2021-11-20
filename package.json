@@ -13,7 +13,8 @@
     "debug": "DEBUG=* eleventy && npm run test",
     "test": "mocha test/test*.js",
     "test-watch": "mocha test/test*.js --watch",
-    "clean" : "rm -Rf ./_site/posts/*"
+    "clean": "rm -Rf ./_site/posts/*",
+    "generate-content": "node ./content-generation/post.js"
   },
   "pre-push": [
     "build"
@@ -53,6 +54,7 @@
     "csp-hash-generator": "0.0.3",
     "csso": "^4.0.3",
     "datauri": "^3.0.0",
+    "date-fns": "^2.26.0",
     "expect.js": "^0.3.1",
     "ffmpeg-static": "^4.4.0",
     "hasha": "^5.2.0",
@@ -60,6 +62,7 @@
     "image-size": "^0.8.3",
     "lru-cache": "^5.1.1",
     "mocha": "^8.1.3",
+    "openai-node": "^1.0.4",
     "phin": "^3.5.0",
     "purge-from-html": "^1.0.3",
     "purgecss": "^4.0.3",
