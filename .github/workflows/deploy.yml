@@ -1,11 +1,9 @@
-# foo
-
 name: Build Eleventy
 
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
