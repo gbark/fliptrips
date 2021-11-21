@@ -15,8 +15,6 @@ image: "../../img/city/pexels-aleksandar-pasaric-2067048.jpg"
 
 Inn Singapore is a charming inn with a great location, a very friendly staff and comfortable rooms. This is a gem of a find in Singapore, and one of our favorite places to stay.
 
-Inn Singapore Details
-
 Inn Singapore is located at 30 Victoria Street, near the mouth of the Singapore River. The hotel has a great location with excellent access to transportation, shopping, dining and attractions. The hotel is also close to the financial district and the Raffles Place MRT station so you can easily get around town.
 
 The hotel offers free parking for guests arriving by car at the hotel’s lot or valet parking services for $25 per night (subject to availability). The hotel also has free WiFi access throughout the property.
