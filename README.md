@@ -11,6 +11,10 @@ OPENAI_API_KEY="..." npm run generate-content
 https://github.com/lxndrblz/anatole/
 https://github.com/hiplon/lighthouse100-theme
 
+## Build and deploy
+
+https://www.justus.ws/tech/deploying-eleventy-to-github-pages/
+
 
 ## Content sources
 

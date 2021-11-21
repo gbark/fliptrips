@@ -42,7 +42,7 @@ function selectRandomFileFromDirectory(directory) {
     return selectRandom(fs.readdirSync(directory));
 }
 
-const startDate = new Date(2021, 10, 1);
+const startDate = new Date(2021, 5, 1);
 const endDate = new Date();
 const daysBetweenStartAndEnd = differenceInDays(endDate, startDate);
 // const datesFromStartToEnd = [...daysBetweenStartAndEnd].map()
@@ -94,8 +94,10 @@ blogPostDays.forEach(day => {
         best_of: 1,
         stop: null,
     }).then((response) => {
-        console.log(response.choices.length, response.choices)
-
+        if (!response.choices || !response.choices[0]) {
+            console.error(`No choices found for ${prompt} with response ${JSON.stringify(response, null, 2)}`);
+            return
+        }
         const output = `---
 title: ${name}
 description: ${prompt}...
@@ -106,7 +108,7 @@ tags:
 - ${name}
 - ${accomodationType}
 layout: layouts/post.njk
-image: /img/${image}
+image: "/img/${type.type}/${image}"
 ---
 
 ${prompt}${response.choices[0].text}`
