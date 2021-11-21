@@ -1,20 +1,35 @@
 ---
-          title: Suites Sandy Dunes
-          description: Suites Sandy Dunes is a jawdropping suites...
-          date: 2018-09-30
-          scheduled: 2018-09-30
-          tags:
-          - beach
-          - Suites Sandy Dunes
-          - Suites
-          layout: layouts/post.njk
-          image: "../../img/beach/pexels-jasmine-ortega-4060149.jpg"
-          ---
-          
-          ![Suites Sandy Dunes](../../img/beach/pexels-jasmine-ortega-4060149.jpg)
-          
-          Suites Sandy Dunes is a jawdropping suites hotel, located on Highway 101 in Lincoln City. The resort features breathtaking ocean views, 124 luxurious suites with private balconies, and a private beach that's just steps away. Enjoy dining at the award-winning Sea Level Restaurant & Lounge, featuring fresh seafood, prime steaks and ocean views. Other amenities include an indoor pool, spa, fitness center and online reservations.
+title: Suites Sandy Dunes
+description: Suites Sandy Dunes is a spiritual suites...
+date: 2020-03-16
+scheduled: 2020-03-16
+tags:
+- beach
+- Suites Sandy Dunes
+- Suites
+layout: layouts/post.njk
+image: "../../img/beach/pexels-arthouse-studio-4571791.jpg"
+---
 
-The Lodge at Otter Crest is a full-service boutique hotel located on over 8 acres of lush forest overlooking the Pacific Ocean. This Victorian retreat features extraordinary views of the Pacific Ocean beyond its forested grounds and expansive lawns. The Lodge at Otter Crest offers an array of amenities including free Wi-Fi access throughout the property, hot breakfast daily in our Great Room, complimentary coffee bar in the lobby 24 hours a day and afternoon tea served by our Victorian parlour staff.
+![Suites Sandy Dunes](../../img/beach/pexels-arthouse-studio-4571791.jpg)
 
-The Secret Garden Inn is a secluded retreat overlooking the Pacific Ocean with breathtaking views from every room. Guests enjoy panoramic views of the beautiful coastline from every room as well as central air conditioning for year-round comfort. The Secret Garden Inn provides visitors with many amenities including free Wi-Fi access throughout the property! Other amenities include hot breakfast daily in our Great Room, complimentary coffee bar in our lobby 24 hours a day and afternoon tea served by our Victorian parlour staff each day at 4 p.m.
+Suites Sandy Dunes is a spiritual suites retreat. There is a variety of meditation classes available in this town.
+
+The Healing Art Studio is a community-based art and healing studio. They offer art classes and workshops, and host an annual retreat called “Escape the City” where people get together to create art and de-stress together.
+
+3: The Restaurant Scene:
+
+Sandy Dunes offers a variety of great vegan restaurants all over town. Some of the notable ones are:
+
+The Raw Can Roll Café serves raw vegan cuisine, desserts, smoothies and juices. They offer a variety of smoothies such as the Slim Green Smoothie (which is made with flax seeds, bluegreen algae, kale, spinach, cucumber and celery), and they serve delicious raw vegan delights such as the Raw Can Roll (a delicious wrap made with sprouts seeds, red cabbage and romaine lettuce). They also serve raw vegan desserts such as the Raw Vanilla Cake (made with dates, shredded coconut and raisins) or brownies made from dates and other ingredients. It’s definitely worth stopping by this place if you need to refuel while you’re enjoying your relaxing stay at Sandy Dunes! The Raw Can Roll Café is located at 1677 South Highway 89A in Sandy Dunes Village #2. You can contact them on Facebook here or call them at +1-928-367-2952.
+
+Green Life Restaurant serves vegan food that is locally grown in organic soil without harmful chemicals or pesticides. They make sure that everything they serve is natural! Their menu includes soup, salads, sandwiches, burritos, burgers and brown rice bowls. Their food is prepared fresh daily from scratch using all organic ingredients from their own gardens! Green Life Restaurant has been featured on ‘The Travel Channels Best Sandwiches in America’ show among many others because their sandwiches are really delicious! Just one example of their tasty dishes is their Curried Chickpea Salad Sandwich which consists of curried chickpeas served on a fresh baked whole wheat baguette with sliced avocado spread on top! Green Life Restaurant has two locations in Sandy Dunes: one at 175 E State Hwy 89A & 89B Suite C9 in Sandy Dunes Village 2 & one at 221 Main Street Suite A in Main Street Square Shopping Center #16 in Main Street Square Shopping Center here… You can contact them on Facebook here or call them at +1-928-367-2626 for reservations for large groups only…
+
+
+
+
+
+
+
+
+

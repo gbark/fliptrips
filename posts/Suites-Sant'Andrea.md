@@ -1,18 +1,16 @@
 ---
-          title: Suites Sant'Andrea
-          description: Suites Sant'Andrea is a historical suites...
-          date: 2018-08-09
-          scheduled: 2018-08-09
-          tags:
-          - city
-          - Suites Sant'Andrea
-          - Suites
-          layout: layouts/post.njk
-          image: "../../img/city/pexels-kai-pilger-591383.jpg"
-          ---
-          
-          ![Suites Sant'Andrea](../../img/city/pexels-kai-pilger-591383.jpg)
-          
-          Suites Sant'Andrea is a historical suites residence in the heart of the city. It is located in a 16th-century palace that was once home to a noble family from Mantua, and later to the Austrian governors. The interior has been completely restored to accommodate guests who come to visit Venice for business or leisure. Part of the property, which was built around an internal courtyard, is one of the few palaces that can be seen by tourists (the most famous of which is Ca' d'Oro).
+title: Suites Sant'Andrea
+description: Suites Sant'Andrea is a romantic suites...
+date: 2017-05-20
+scheduled: 2017-05-20
+tags:
+- city
+- Suites Sant'Andrea
+- Suites
+layout: layouts/post.njk
+image: "../../img/city/pexels-ahmed-abdelaziz-453201.jpg"
+---
 
-The residence consists of 40 apartments; each has its own character and charm. Some are more modern than others, but all are comfortable and decorated with precious furnishings and paintings dating back several centuries. There are no large buildings around this residence (other than historical ones), making it an oasis of peace in the heart of Venice. Guests will enjoy their stay after discovering the numerous bars, cafes and restaurants located within walking distance.
+![Suites Sant'Andrea](../../img/city/pexels-ahmed-abdelaziz-453201.jpg)
+
+Suites Sant'Andrea is a romantic suites situated in a beautiful old building, recently renovated. The rooms are furnished with antiques and the bookshelves are filled with a variety of interesting books. The garden is very nice and perfect for relaxing. It's situated in front of the castle of Urbino, so you can watch the tourists going up and down that steep road. There is a great restaurant just below the hotel, which serves excellent food. And there is also a bus stop just outside for exploring Urbino by public transportation. I would strongly recommend it to anyone looking for a place to stay in Urbino!

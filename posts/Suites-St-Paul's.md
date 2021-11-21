@@ -1,24 +1,22 @@
 ---
-          title: Suites St Paul's
-          description: Suites St Paul's is a upscale suites...
-          date: 2020-01-30
-          scheduled: 2020-01-30
-          tags:
-          - city
-          - Suites St Paul's
-          - Suites
-          layout: layouts/post.njk
-          image: "../../img/city/pexels-konstantinos-eleftheriadis-2034335.jpg"
-          ---
-          
-          ![Suites St Paul's](../../img/city/pexels-konstantinos-eleftheriadis-2034335.jpg)
-          
-          Suites St Paul's is a upscale suites hotel located in the heart of the entertainment district. It offers live music, a spa and a rooftop patio overlooking the city's skyline.
+title: Suites St Paul's
+description: Suites St Paul's is a gastronomical suites...
+date: 2017-03-12
+scheduled: 2017-03-12
+tags:
+- city
+- Suites St Paul's
+- Suites
+layout: layouts/post.njk
+image: "../../img/city/pexels-aleksandar-pasaric-3048538.jpg"
+---
 
-Madison Avenue Suites - a Luxury Collection Hotel is a non-smoking hotel, at home in Toronto’s trendy Yorkville neighbourhood. It offers modern rooms, an on-site spa and an indoor pool.
+![Suites St Paul's](../../img/city/pexels-aleksandar-pasaric-3048538.jpg)
 
-Hilton Toronto is a business hotel located in downtown Toronto, within walking distance of many shops and restaurants. It offers spacious rooms with free Wi-Fi and a fitness centre.
+Suites St Paul's is a gastronomical suites hotel in Vancouver, British Columbia. The hotel is located in the heart of Downtown Vancouver in proximity to shopping, dining and entertainment. Ample underground parking is available at no extra cost.
 
-Howard Johnson Hotel by Wyndham Downtown is located in downtown Toronto close to tourist attractions such as Rogers Centre and CN Tower. It offers non-smoking rooms with free Wi-Fi access and free parking on site.
+Suites St Paul’s is located in the heart of downtown Vancouver at the corner of Hornby Street and Richards Street. The hotel features 186 suites ranging from 400 to 1,500 sq. ft., each with a separate living room, bedroom, kitchenette and en-suite bathroom.
 
-Fairfield Inn & Suites by Marriott Downtown is a newly built hotel located in the heart of central Toronto’s entertainment district offering accommodation with modern amenities for business travellers to Canada’s largest city. It features an outdoor pool, free parking and complimentary breakfast buffet every morning.
+The hotel offers a wide selection of amenities including - meeting/conference facilities for up to 300 guests, fitness centre with state-of-the-art equipment, indoor swimming pool and sauna, two business centres, complimentary wireless Internet access throughout the hotel, 24-hour room service and more than 20 food outlets featuring gourmet cuisine.
+
+The hotel provides an ideal setting for business travellers wishing to be close to downtown businesses including law firms HSBC Canada Place (Cable Vision), BC Place Stadium (Rogers Centre) and BC Petroleum Conference Centre (Telus World).

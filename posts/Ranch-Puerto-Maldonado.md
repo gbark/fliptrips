@@ -1,20 +1,22 @@
 ---
-          title: Ranch Puerto Maldonado
-          description: Ranch Puerto Maldonado is a rustic ranch...
-          date: 2020-05-10
-          scheduled: 2020-05-10
-          tags:
-          - jungle
-          - Ranch Puerto Maldonado
-          - Ranch
-          layout: layouts/post.njk
-          image: "../../img/jungle/pexels-jason-boyd-3209049.jpg"
-          ---
-          
-          ![Ranch Puerto Maldonado](../../img/jungle/pexels-jason-boyd-3209049.jpg)
-          
-          Ranch Puerto Maldonado is a rustic ranch located in the Valley of Longevity, a mile from the Peruvian Amazon. We offer a unique experience as part of a sustainable community, where you can learn about our conservation efforts and daily life in the Amazon.
+title: Ranch Puerto Maldonado
+description: Ranch Puerto Maldonado is a romantic ranch...
+date: 2021-10-30
+scheduled: 2021-10-30
+tags:
+- jungle
+- Ranch Puerto Maldonado
+- Ranch
+layout: layouts/post.njk
+image: "../../img/jungle/pexels-mike-1174108.jpg"
+---
 
-We have built a comfortable house on stilts with a great view of the river and surrounding nature. The house is fully equipped with kitchen, bathroom, living room and balcony. There is one double bed and a single bed, as well as mattresses on the floor for extra guests.
+![Ranch Puerto Maldonado](../../img/jungle/pexels-mike-1174108.jpg)
 
-The wildlife around us is abundant with monkeys, parrots, butterflies and many types of birds. In addition to the birds there are also various types of snakes, lizards and frogs to be found in our garden. We have an aquarium where you can see piranhas! In addition to enjoying nature we also practice yoga on our beautiful terrace overlooking the river!
+Ranch Puerto Maldonado is a romantic ranch located along the Urubamba River, only a few minutes from the town of Puerto Maldonado and around 40 kilometers from Cusco. It offers a wide range of services: tours and daytrips to the jungle and rivers, birdwatching, horseback riding, hiking among colorful birds and butterflies.
+
+El Lomito Lodge El Lomito Lodge is a family owned lodge located in the Madre de Dios region near Manu National Park. The lodge is surrounded by primary rain forest with spectacular bird watching opportunities as well as other wildlife viewing possibilities such as monkeys, caimans and other animals.
+
+Jungle Lodges - Peru
+
+The Jungle lodges are located in Manu National Park close to the city of Cusco. These lodges enjoy a high level of comfort along with a personalized service that will make your stay a memorable one. These lodges have been designed to preserve the natural beauty of the rainforest while providing all necessary comforts for travelers....[Read More]

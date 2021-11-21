@@ -202,25 +202,25 @@ blogPostDays.forEach((day, i) => {
         return;
       }
       const output = `---
-          title: ${name}
-          description: ${prompt}...
-          date: ${dateString}
-          scheduled: ${dateString}
-          tags:
-          - ${type.type}
-          - ${name}
-          - ${accomodationType}
-          layout: layouts/post.njk
-          image: "../../img/${type.type}/${image}"
-          ---
-          
-          ![${name}](../../img/${type.type}/${image})
-          
-          ${prompt}${response.choices[0].text}`;
+title: ${name}
+description: ${prompt}...
+date: ${dateString}
+scheduled: ${dateString}
+tags:
+- ${type.type}
+- ${name}
+- ${accomodationType}
+layout: layouts/post.njk
+image: "../../img/${type.type}/${image}"
+---
+
+![${name}](../../img/${type.type}/${image})
+
+${prompt}${response.choices[0].text}`;
 
       fs.writeFileSync(`./posts/${name.replace(/ /g, "-")}.md`, output);
     });
-  }, i * 10000);
+  }, i * 20000);
 });
 
 function selectRandom(array) {

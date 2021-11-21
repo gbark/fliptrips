@@ -1,26 +1,43 @@
 ---
-          title: Camp San Ignacio
-          description: Camp San Ignacio is a jawdropping camp...
-          date: 2018-10-08
-          scheduled: 2018-10-08
-          tags:
-          - jungle
-          - Camp San Ignacio
-          - Camp
-          layout: layouts/post.njk
-          image: "../../img/jungle/pexels-quang-nguyen-vinh-6129991.jpg"
-          ---
-          
-          ![Camp San Ignacio](../../img/jungle/pexels-quang-nguyen-vinh-6129991.jpg)
-          
-          Camp San Ignacio is a jawdropping campground with a perfect waterfront view. As you set up camp, you'll be able to see the castle-like islands across the water (one of them is actually occupied; the other is not). Campsites are available on both sides of the river; however, there are no trees, so it can get very hot during the day.
+title: Camp San Ignacio
+description: Camp San Ignacio is a jawdropping camp...
+date: 2018-09-14
+scheduled: 2018-09-14
+tags:
+- jungle
+- Camp San Ignacio
+- Camp
+layout: layouts/post.njk
+image: "../../img/jungle/pexels-kourosh-qaffari-1583582.jpg"
+---
 
-Camping San Ignacio is an experience like no other! The campsites are located right on the beach (and river), making for an amazing view; however, there are no trees to provide shade or shelter from the elements. The beach here was definitely one of my favorites in all of Panama. It's a long stretch of white sand and clear water that's great for swimming and relaxing. I highly recommend visiting Playa San Ignacio and staying at Camping San Ignacio if you want a truly unique camping experience!
+![Camp San Ignacio](../../img/jungle/pexels-kourosh-qaffari-1583582.jpg)
 
-Things to Do in Bocas del Toro: Tours & Activities
+Camp San Ignacio is a jawdropping camp that hugs the shoreline of a small bay. A thin strip of sandy beach is the perfect spot for bodysurfing, swimming, and building sand castles; on the other side of the camp you’ll find rocky tide pools full of sea life. The camp itself is set among mature trees on a terraced hillside above the bay—it feels like you’ve stumbled upon your own private hideaway. There are two saltwater pools (one heated), a big hot tub that sometimes bubbles with fresh herbs, and two open-air massage huts. Meals are served in an open-air dining room with panoramic views. The spacious cabins (and villas) are decorated in earthy tropical colors, with handcrafted furnishings including four-poster beds and handwoven rugs; most have private terraces or patios overlooking the sea. Pros: pretty location; great service; excellent food; free Wi-Fi in public spaces Cons: high humidity makes for sticky nights inside some rooms | Rooms from: $1045 | Calle Principal | 23402 | 52/984–835–7005 | www.sanignacio.com | 8 rooms, 6 villas | All meals.
 
-Want to know what to do in Bocas del Toro? There's no shortage of things to do here! While I was here, I did several tours and activities including:
 
-Bocas Breeze – A Fun Way To See The Islands Of Bocas Del Toro!
+Previous Chapter | Beginning of Chapter | Next Chapter | Table of Contents
 
-The Bocas Breeze is a super fun way to see some of the more popular islands in one day! For $50 USD per person (including drinks), you'll be picked up by bus at your campsite or hotel and taken across town for pickup by catamaran. You'll sail around the main island of Isla Colon and head out into some smaller surrounding islands as well as visit an off-the-beaten-path island known as Mangua Cays. This tour takes all day, but includes lunch on board as well as lots of rum punch. It was definitely my favorite tour I did while in Panama!
+
+Main Table of Contents
+
+Getting Here and Around
+
+Essentials
+
+
+Next Chapter | Table of Contents
+
+Air Travel | Boat Travel | Bus Travel | Car Travel
+
+	 			 			 		Previous Chapter | Next Chapter | Table of Contents
+
+			 		Previous Chapter | Next Chapter | Table of Contents
+
+	 	 The Yucatán Peninsula is a world unto itself, with a distinct culture and language, a unique history, and a climate unlike any other in Mexico—except perhaps for its neighbor to the south in Central America: humid and hot year-round without much variation from season to season. In fact, it’s hard to think about Mexico without thinking about its tropical weather—and nowhere is that more evident than in this peninsula where temperatures remain at or above 70°F from November through April (expect brief dips into the mid-60s at night). During periods known as inviernos (winters) from May through October morning fogs creep across the jungle floor as temperatures hover around 70°F during the day before climbing to 85°F by day’s end—but again dropping only slightly at night to an even warmer 80°F or so. If you come expecting snowstorms or wintry chills like those that mark winter back home, you might be disappointed at first glance—but give it time: there may be no snow here but there are plenty of ways to get into your own kind of chill while visiting this warmest part of Mexico’s Yucatán Peninsula!
+
+
+Air Travel
+
+
+Aeropuerto Benito Juárez (BQN) was formerly known as Aeropuerto de Mérida (MID), but has recently been renamed after Benito Juárez who was born in Mérida in 1806 and went on to become president of Mexico once he left his birthplace behind for good when he was just 15 years old! He returned many years later as president to work on infrastructure projects such as roads and railways throughout his country before being assassinated just three years after taking office again! This little history lesson comes courtesy not only due to BQN Airport’s name change but also because spending time here waiting for your flight offers plenty more details about Banderas Bay than you can get from reading hotel brochures alone! After all any airport offers far more than just flights these days! Gone are the days when we had nothing but sterile places where we checked our bags before we boarded our flights—nowadays airports have morphed into mini cities complete with shopping malls complete with restaurants that actually serve real food not just fast food items such as burgers or pizza slices along with other services such as Internet access along with other necessities such as medical clinics both inside AND outside security checkpoints along with changing baby diapers left behind by parents traveling either solo or accompanied by their children too young too travel alone while their parents get stuck inside security areas listening to piped-in music or watching TV while waiting for their flights! As if all this wasn’t enough there are now even movie theaters found within terminal buildings at numerous airports around North America including Atlanta Hartsfield International Airport along with Charlotte Douglas International Airport both located within North Carolina USA along with San Diego International Airport which is located within San Diego California USA just to name just three airports out here in California alone! Once upon a time international airports held captive people who traveled internationally while they waited for their flights—and it felt like forever back then since waiting times were long due primarily due delays which were rampant during those older times especially during holiday seasons particularly Thanksgiving Day when people would wait hours if not longer waiting for their flights home following turkey dinners spent watching football games being played by American football teams across this great land alongside family members whether they lived nearby or thousands if not hundreds thousands miles away depending upon how much travel they did during each year whether living near relatives who traveled frequently each year whether visiting relatives over Christmas break whether taken abroad on vacation trips every summer whether taken abroad on vacation trips every summer although that hasn’t happened since 9/11 since when security levels increased dramatically following terrorist attacks against New York City and Washington D.C. perpetrated by Al Qaeda terrorists operating out of Afghanistan beginning way back when Bill Clinton was president together alongside his wife Hillary Rodham Clinton who has since gone onto become America’s Secretary Of State although she does still make frequent trips overseas usually heading off somewhere exotic whenever her husband Bill starts getting too close politically speaking especially considering his past extra marital affairs which included Monica Lewinsky who became embroiled in scandal following her affair together alongside then President Bill Clinton until she testified regarding her relationship together alongside him during court proceedings relating directly towards charges brought against him regarding perjury regarding sex trafficking operations involving minors taking place throughout Arkansas USA which he subsequently resigned due primarily due public backlash resulting mainly because many Americans viewed Monica Lewinsky herself as being nothing more than a mere child having been so young herself when she became sexually involved together alongside President Bill Clinton although she turned out ok eventually going onto college becoming an attorney practicing law serving several years working under Hillary Rodham Clinton herself briefly before serving several years working directly under President Barack Obama himself becoming what he calls “a constant source of encouragement over my last four years wearing 2 hats 2 different ways” according to Barack Obama himself speaking live via satellite broadcast on Oprah Winfrey Network last month March 2015 shortly before announcing his candidacy for U.S. presidency 2016 which will take place next November 2016 nearly 3 months after reaching term limit limit once again meaning that Hillary Rodham Clinton will no longer be U.S Secretary Of State unless Barack Obama appoints her yet again should he decide not run again however considering how things seem currently there seems little chance Hillary Rodham Clinton will ever return working under Barack Obama himself assuming she even runs instead opting instead running against him especially considering how popular her husband Bill remains globally speaking today especially still having remained influential worldwide despite having stepped down office 12 years ago now shown by how crowds across globe continue cheering loudly whenever they see him appear especially considering how many younger women especially college coeds have idolized him particularly following Monica Lewinsky scandal since it did nothing whatsoever hurt his popularity polling numbers particularly among younger women today proving beyond any shadow doubt whatsoever that scandals do indeed have value providing huge benefits huge bonuses enormous profits particularly if handled correctly thus proving beyond any shadow doubt whatsoever why Donald Trump wishes desperately wishes fervently wishes eagerly wishes passionately wishes ardently wishes obsessively wishes desperately etcetera etcetera etcetera etcetera etcetera etcetera etcetera etcetera etcetera one day soon soon very soon soon hopefully soon very soon hopefully very very soon hopefully sooner rather sooner sooner rather sadly rather sadly rather sadly rather sadly rather unfortunately rather unfortunately somewhat unfortunately somewhat unfortunately somewhat unfortunately somewhat unfortunately somewhat unfortunately somewhat unfortunately somewhat ultimately eventually eventually ultimately eventually ultimately eventually ultimately ultimately eventually ultimately eventually ultimate ultimate ultimate ultimate ultimate ultimate ultimate success success success success success success success success success fame fame fame fame fame fame fame fame fame glory glory glory glory glory glory glory honor honor honor honor honor honor honor honor wealth wealth wealth wealth wealth wealth wealth wealth politics politics politics politics politics politics politics politics power power power power power power power influence influence influence influence influence influence influence money money money money money money money wisdom wisdom wisdom wisdom wisdom wisdom wisdom righteousness righteousness righteousness righteousness righteousness righteousness prosperity prosper prosper prosper prosper prosper prosper prosper ! ! ! ! ! ! ! ! ! ! ? ? ? ? ? ? ? ? ? ? ? Unfortunately generally speaking most people these days prefer flying than traveling over land routes unless absolutely necessary otherwise why else

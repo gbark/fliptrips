@@ -1,18 +1,18 @@
 ---
-          title: Ranch Pacuare
-          description: Ranch Pacuare is a magical ranch...
-          date: 2019-09-25
-          scheduled: 2019-09-25
-          tags:
-          - jungle
-          - Ranch Pacuare
-          - Ranch
-          layout: layouts/post.njk
-          image: "../../img/jungle/pexels-arthouse-studio-4534200.jpg"
-          ---
-          
-          ![Ranch Pacuare](../../img/jungle/pexels-arthouse-studio-4534200.jpg)
-          
-          Ranch Pacuare is a magical ranch located in the jungles of the Pacuare River. It was founded in 1982 by Maritza and Mario, who lived at the ranch for its first twenty years before retiring. Their children, Michael and Maria, now own and run the ranch and continue to lead their guests on white water rafting adventures.
+title: Ranch Pacuare
+description: Ranch Pacuare is a charming ranch...
+date: 2017-04-20
+scheduled: 2017-04-20
+tags:
+- jungle
+- Ranch Pacuare
+- Ranch
+layout: layouts/post.njk
+image: "../../img/jungle/pexels-jason-boyd-3209049.jpg"
+---
 
-There are no roads leading to Pacuare Lodge, which means that rafting is the only way to get there. The Pacuare River stretches from its source high in the Cordillera Central mountain range down to where it meets the Caribbean Sea, making it one of Costa Rica's longest rivers. It's also one of its most beautiful: even when you're not exploring it by raft, you can look out from your cabin and see one stunning view after another.
+![Ranch Pacuare](../../img/jungle/pexels-jason-boyd-3209049.jpg)
+
+Ranch Pacuare is a charming ranch located on the banks of the Pacuare River, only five minutes away from the entrance to the National Park. The ranch is made up of different cottages, each with its own charm and unique design. All are surrounded by palms, fruit trees, flowers and exotic plants.
+
+The ranch has many tourist attractions such as horseback rides on the river shores, boat trips through the rapids of the Pacuare River or into the national park, rafting trips to La Piedra waterfalls or into canals of Tortuga Island. The great variety of activities at Ranch Pacuare will delight visitors every time they visit!

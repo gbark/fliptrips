@@ -1,21 +1,19 @@
 ---
-          title: Château Cipriani
-          description: Château Cipriani is a rustic château...
-          date: 2016-08-31
-          scheduled: 2016-08-31
-          tags:
-          - city
-          - Château Cipriani
-          - Château
-          layout: layouts/post.njk
-          image: "../../img/city/pexels-leah-kelley-952586.jpg"
-          ---
-          
-          ![Château Cipriani](../../img/city/pexels-leah-kelley-952586.jpg)
-          
-          Château Cipriani is a rustic château with a prominent history. It is located at Via Berchet 12 in the municipality of Castagnola, in the district of Lugano in the canton of Ticino in Switzerland.
+title: Château Cipriani
+description: Château Cipriani is a sophisticated château...
+date: 2019-07-11
+scheduled: 2019-07-11
+tags:
+- city
+- Château Cipriani
+- Château
+layout: layouts/post.njk
+image: "../../img/city/pexels-lucas-pezeta-2352348.jpg"
+---
 
-The castle was built between 1867 and 1869 by an unknown architect for Giuseppe Cipriani, who wanted to create a house on Lake Lugano worthy of his wife, the former opera singer Adelina Domenica Vianini. The château is built in Neo-Gothic style with high towers on each corner. Archaeological excavations uncovered remains of an earlier castle that had been destroyed during the Thirty Years' War. The later one was completed in 1869 and remained with the Cipriani family until 1980. After 1980 it was used as a restaurant and more recently as a hotel, before falling into disrepair.
+![Château Cipriani](../../img/city/pexels-lucas-pezeta-2352348.jpg)
 
-The large parkland surrounding the château is home to many species of flora and fauna including red deer, fallow deer, mini-donkeys, peacocks and peahens.
+Château Cipriani is a sophisticated château style hotel located in the exclusive "Billionaires' Row" area of the city, on East Amherst Avenue. This is an exclusive neighborhood with home prices ranging from $20 million to over $100 million.
+
+The property was originally built in 1925 by famed architect Stanford White for William K. Vanderbilt II, the great-grandson of Cornelius Vanderbilt, who established the New York Central Railroad. The estate was later sold to Richard Hoyt-Vanderbilt, in 1937, whose family owned it until 1987 when they sold it to Rolf Sachs and his wife. Sachs had a vision to restore the property back to its original grandeur and hired Italian architect Annamaria Cipriani (no relation) and designer Jack Lenor Larsen to redesign and decorate the property into a luxurious five star hotel and restaurant. After six years of extensive renovations, Château Cipriani opened its doors as a luxury hotel and restaurant on December 13, 1993. The French chateau style mansion was listed on the National Register of Historic Places in 1989 as part of its Beaux-Arts architecture theme.
 

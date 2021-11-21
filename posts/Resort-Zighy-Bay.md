@@ -1,22 +1,26 @@
 ---
-          title: Resort Zighy Bay
-          description: Resort Zighy Bay is a gorgeous resort...
-          date: 2018-11-10
-          scheduled: 2018-11-10
-          tags:
-          - beach
-          - Resort Zighy Bay
-          - Resort
-          layout: layouts/post.njk
-          image: "../../img/beach/pexels-flickr-149622.jpg"
-          ---
-          
-          ![Resort Zighy Bay](../../img/beach/pexels-flickr-149622.jpg)
-          
-          Resort Zighy Bay is a gorgeous resort in the Middle East. The resort is located on the beachfront of Zighy Bay, overlooking the Arabian Gulf. The resort features guest rooms with balconies, a restaurant, nightclubs, bars, spa and fitness centre.
+title: Resort Zighy Bay
+description: Resort Zighy Bay is a sun-soaked resort...
+date: 2020-05-30
+scheduled: 2020-05-30
+tags:
+- beach
+- Resort Zighy Bay
+- Resort
+layout: layouts/post.njk
+image: "../../img/beach/pexels-jasmine-ortega-4060149.jpg"
+---
 
-There’s a total of 400 rooms, including 202 suites and 198 standard rooms. Many of the rooms have wonderful views of the sea or desert! The hotel has many facilities including an outdoor heated pool, tennis courts and beach volleyball court!
+![Resort Zighy Bay](../../img/beach/pexels-jasmine-ortega-4060149.jpg)
 
-3) Banyan Tree Mayakoba
+Resort Zighy Bay is a sun-soaked resort that stretches out along the coast, with its own private beach and a fleet of luxury yachts that can whisk guests off on private cruises.
 
-Banyan Tree Mayakoba is set on 7 hectares near Playa del Carmen. Guests can choose to stay in one of the 250 villas or 50 garden suites. The resort features 3 pools (one an infinity pool), 4 restaurants and 2 bars. There’s also a by-the-sea spa! The resort’s location near Cancun makes it easy to enjoy all that this area has to offer too!
+The hotel’s lavish public spaces are inspired by the local culture, while also providing easy access to the hotel’s facilities. The main restaurant overlooks the beach and has its own private terrace for guests to enjoy alfresco dining in summer months.
+
+The elegant rooms and suites at Resort Zighy Bay feature a bold design with rich colors that reflect Omani culture, while also providing all the modern amenities of a luxury hotel.
+
+The hotel is classified by TripAdvisor as a TripAdvisor Travellers’ Choice award winner for 2017 in the “Top Hotels in Oman” category.
+
+Resort Zighy Bay is a member of Small Luxury Hotels of the World (SLH), an international chain of boutique hotels with locations from Bali to Mauritius.
+
+

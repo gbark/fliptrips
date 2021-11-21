@@ -1,18 +1,21 @@
 ---
-          title: Safari Camp Grosso
-          description: Safari Camp Grosso is a pristene safari camp...
-          date: 2019-10-11
-          scheduled: 2019-10-11
-          tags:
-          - jungle
-          - Safari Camp Grosso
-          - Safari Camp
-          layout: layouts/post.njk
-          image: "../../img/jungle/pexels-david-riaño-cortés-975771.jpg"
-          ---
-          
-          ![Safari Camp Grosso](../../img/jungle/pexels-david-riaño-cortés-975771.jpg)
-          
-          Safari Camp Grosso is a pristene safari camp that offers the best of Tanzania safaris at its most picturesque location. The camp is set in a private concession bordering the popular Selous Reserve, where the famous elephant corridor traverses between the greater Rukwa ecosystem and the Selous Game Reserve. Safari Camp Grosso is an intimate camp with only four tents, all of which are spacious with ensuite.
+title: Safari Camp Grosso
+description: Safari Camp Grosso is a rustic safari camp...
+date: 2020-05-26
+scheduled: 2020-05-26
+tags:
+- jungle
+- Safari Camp Grosso
+- Safari Camp
+layout: layouts/post.njk
+image: "../../img/jungle/pexels-teguh-sugi-6121916.jpg"
+---
 
-Safari Camp Grosso is set on a hilltop overlooking a dried up river, with sweeping views over the surrounding plains where Masai giraffe, hippo, Cape buffalo and other wildlife roam freely. From here one can enjoy very close-up views of this beautiful area and spend time watching wildlife while having sundowners in the early evening sun.
+![Safari Camp Grosso](../../img/jungle/pexels-teguh-sugi-6121916.jpg)
+
+Safari Camp Grosso is a rustic safari camp consisting of 12 tents and 2 suites. The camp overlooks a waterhole and the camp has its own private airstrip. Game drives and bushwalks can be arranged with lodge staff.
+
+Safari Camp Grosso is highly recommended as a good experience for those who want to move away from the more common "high end" safari camps, but don't want to compromise on the quality of service offered.
+
+Facilities at Safari Camp Grosso include:
+

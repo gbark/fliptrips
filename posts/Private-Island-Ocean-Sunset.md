@@ -1,23 +1,22 @@
 ---
+title: Private Island Ocean Sunset
+description: Private Island Ocean Sunset is a rustic private island...
+date: 2017-05-16
+scheduled: 2017-05-16
+tags:
+- beach
+- Private Island Ocean Sunset
+- Private Island
+layout: layouts/post.njk
+image: "../../img/beach/pexels-tom-fisk-4373238.jpg"
+---
 
-          title: Private Island Ocean Sunset
-          description: Private Island Ocean Sunset is a gorgeous private island...
-          date: 2018-12-04
-          scheduled: 2018-12-04
-          tags:
-          - beach
-          - Private Island Ocean Sunset
-          - Private Island
-          layout: layouts/post.njk
-          image: "../../img/beach/pexels-asad-photo-maldives-3155661(1).jpg"
-          ---
+![Private Island Ocean Sunset](../../img/beach/pexels-tom-fisk-4373238.jpg)
 
-          ![Private Island Ocean Sunset](../../img/beach/pexels-asad-photo-maldives-3155661(1).jpg)
+Private Island Ocean Sunset is a rustic private island – a gem – nestled in the heart of the Gulf Islands National Park Reserve. The island is a place where you can truly unwind, reconnect with nature and enjoy a peaceful retreat!
 
-          Private Island Ocean Sunset is a gorgeous private island and resort in the Maldives that was also designed by Bjarke Ingels Group. The resort features a hanging garden, a grotto, and a dining pavilion.
+Lush forests, wildflowers, abundant wildlife and stunning ocean vistas await you. The island offers 15 private campsites dotted along trails through coastal forest, meadows and down to the shoreline.
 
-The Hanging Garden is located at the highest point of the island and is accessible by footbridge. It is built with the concept of ‘mountain meets ocean’ in mind and is surrounded by white sandy beaches and azure waters.
+There are two freshwater lakes on the island – catch and cook your own fish or just relax by their waters. A short walk takes you to the tiny community of Islesford where there are wonderful restaurants, shops and an historical museum.
 
-The grotto is a cave-like structure built into a small island that has been covered in rocks to provide shade from the sun while allowing water to cascade down its walls. It features a waterfall that pours into a pool below where guests can relax while taking in the view of the ocean.
-
-Bjarke Ingels Group’s private island resorts are redefining what it means to be on vacation.
+The Great Blue Heron campground has flush toilets, cold water showers (summer only), fire pits (wood available for purchase) picnic tables and room for up to six tents. The campground is wheelchair accessible. There are no canoe rentals on the island but canoes or kayaks can be rented nearby (please bring your own lifejackets). Enjoy swimming in crystal clear water along the shady shores of the island; explore tidal pools; search for shells; read a book; nap in the shade or take a short hike through coastal forest or meadow to one of our stunning sandy beaches!

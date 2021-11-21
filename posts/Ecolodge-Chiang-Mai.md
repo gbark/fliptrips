@@ -1,58 +1,37 @@
 ---
-          title: Ecolodge Chiang Mai
-          description: Ecolodge Chiang Mai is a romantic ecolodge...
-          date: 2020-08-04
-          scheduled: 2020-08-04
-          tags:
-          - jungle
-          - Ecolodge Chiang Mai
-          - Ecolodge
-          layout: layouts/post.njk
-          image: "../../img/jungle/pexels-rachel-claire-5864237.jpg"
-          ---
-          
-          ![Ecolodge Chiang Mai](../../img/jungle/pexels-rachel-claire-5864237.jpg)
-          
-          Ecolodge Chiang Mai is a romantic ecolodge that offers a spa experience, offering a range of yoga and meditation classes, as well as one-day volunteer opportunities.
+title: Ecolodge Chiang Mai
+description: Ecolodge Chiang Mai is a jawdropping ecolodge...
+date: 2020-09-19
+scheduled: 2020-09-19
+tags:
+- jungle
+- Ecolodge Chiang Mai
+- Ecolodge
+layout: layouts/post.njk
+image: "../../img/jungle/pexels-renzy-atibagos-3377320.jpg"
+---
 
-The Hacienda is a warm and inviting boutique hotel situated in the heart of Chiang Mai, just minutes from the city’s main nightlife and shopping areas. The hotel has its own organic garden, offering guests fresh eggs and vegetables.
+![Ecolodge Chiang Mai](../../img/jungle/pexels-renzy-atibagos-3377320.jpg)
 
-U Siam is an eco-friendly hotel with an on-site spa and health club that offers classes in yoga and tai chi. The resort has its own organic garden and offers free airport transfers.
+Ecolodge Chiang Mai is a jawdropping ecolodge in the mountains of Northern Thailand. Situated close to Chiang Mai, this is a great option if you want the natural beauty and a fantastic home base for exploring the sights around Chiang Mai.
 
+The rooms are simple and rustic, but comfortable with private bathrooms, showers and air conditioned bedrooms. The restaurant serves Thai food from organic ingredients from their own garden. The lodge also has a spa that offers massages using all-natural oils from coconut and sesame seeds. You can take a full day tour or just opt for a half day trip to see the elephant's village and learn about their rescue center while enjoying swimming in the river and jungle walks through the jungle trails.
 
-MARKETS
+3) Rambutan Resort, Koh Phangan (Thailand)
 
+Rambutan Resort is located on Koh Phangan in Thailand and has long been one of the most popular resorts on this beautiful island since it was established in 1991. It's nestled right on the beach with easy access to some of the best beaches that Koh Phangan has to offer such as Haad Thien (which is famous for its full moon parties). It's only a 15 minute walk from Thong Sala where you will find all your shopping needs and nightlife! There are so many things to do at Rambutan Resort such as snorkeling, diving, kayaking, mountain biking, hiking and even stand up paddle boarding so no matter how old or young you are there is something here for everyone!
 
-Night Bazaar (Offline map) is the best place to go for souvenirs; it’s filled with touristy stuff but also has some good buys for those who don’t like to haggle too much over prices. It runs parallel to Th Tha Phae (with plenty of connecting alleys) between Th Ratchadamnoen Nok & Th Ratchaphakhinai; there are also several other night bazaars scattered around town – see Click here .
+All rooms have air conditioning, hot water showers and free Wi-Fi connection to keep you connected while you're having fun at Rambutan Resort. You can rent out motor bikes here if you want to explore Koh Phangan on your own accord or take advantage of their package deals which include scuba diving lessons, snorkeling trips with equipment rental included as well as boat trips where you can spend an afternoon sailing into stunning bays surrounded by little islands with white sandy beaches around them! This resort also hosts yoga classes at their yoga pavilion where instructors have been trained in both Hatha Yoga & Vinyasa yoga! They say come as strangers but leave as friends so try out different activities with other visitors during your stay here!
 
-Somphet Market Offline map Google map (cnr Th Charoen Prathet & Soi 1; 8am-8pm) This covered market is especially good for traditional Thai crafts such as textiles, woodcarvings, hill-tribe items, ceramics, baskets etc. It’s usually called Sunday Market because it opens every day except Sunday.
+4) The Casita del Colibri Hotel Cenote Dive Center & Spa (Mexico)
 
-
-PICKING YOUR PAD
+The Casita del Colibri Hotel Cenote Dive Center & Spa is located close to Tulum in Mexico where they offer cenote diving which means that this hotel is set by an underground water source known as "cenotes". These cenotes are open year round despite how hot it is above ground during certain months. There are many different options here depending on what type of vacation experience are after whether it be active or relaxing! If you want something active then they offer daily guided activities such as snorkeling tours along with beginner scuba courses which teach you everything about how to dive safely before taking off into underwater caves filled with interesting stalactites hanging down above your head! They also offer fishing trips along with horseback riding both of which come highly recommended by past guests who have experienced them first hand! For those who want something more relaxing then there are plenty of yoga classes offered throughout your stay along with meditation sessions at their Meditation Pavilion which overlooks Lake Alchichica! There's also access to all of their kayaks so if you're feeling adventurous hit up some nearby cenotes on your own accord by boat or kayak depending on how adventurous you feel like being during your trip here! As far as traditional rooms go there are rooms available for couples or families alike who would rather not opt for dorms however if dorms sound more like your speed then they do offer those too along with private bathrooms available at no extra cost although they aren't quite equipped like regular bedroom suites but still suitable nonetheless! All dorms come fully equipped with lockers that fit backpacks however if this isn't enough space then there's also storage lockers available outside which can accommodate large items like surfboards without any problems whatsoever. This place has it all whether its relaxation or adventure what everyone comes looking for when they book this place so make sure not to miss out on this one during your next vacation down south!
 
 
-Chiang Mai has accommodation options to suit every budget – from simple bungalows to five-star resorts – but it remains true that you get what you pay for here. There are also so many places to stay that it can be hard to narrow things down, so here are a few pointers:
 
 
-Old City
 
 
-One of the most popular neighbourhoods for travellers due to its location within walking distance of many sights and close proximity to Chiang Mai University (and thus cheap student guesthouses). During the day this area is overrun with motorbikes speeding up Chang Klan Rd towards Doi Suthep; at night it gets quiet but you may hear music coming from bars on Moon Muang Rd.
 
 
-Eastside
 
-
-The east side of town is home to the city’s most exclusive hotels as well as some beautiful old teak shophouses occupied by trendy boutique hotels or restaurants. For those seeking seclusion without breaking the bank, there are some good midranger guesthouses just off Nimmanhemin Rd which provide plenty of peace without sacrificing too much convenience or atmosphere.
-
-
-Southside
-
-
-Another popular choice due to its convenient location near the airport bus terminal (approximately 10km south), Chiang Mai University (8km south), Central Airport Plaza shopping centre (8km south) and Wat Phra Singh temple (6km east). This area gets relatively busy during daylight hours so can be noisy at night when motorbikes speed between Soi 1 & 3 toward Th Na Meuang Mochit before turning north onto Ratwithi Rd at Wat Gate leading back downtown via Soi 2 & 3 or east onto Chang Klan Rd towards Doi Suthep. The south side also has quite a few expats living there which means more Western restaurants than elsewhere in town; however this translates into higher prices for food too! The main tourist strips running east−west along Charoenrat Rd include: Soi 4 , near Wat Gate; Soi 2 , which runs parallel behind Wat Gate; Soi 3 , which runs parallel behind Wat Gate; Soi 9 , which runs parallel behind Wat Gate; Soi 7 , which runs parallel behind Wat Gate; Soi 1 , where easy access via taxi makes it popular with drivers who live nearby or want a quick ride back downtown after work rather than having to take a whole circuitous route around town via the bypass road ; and Nimmanhemin Rd , a long strip running roughly west−east along the southern edge of campus with many nice cafes along its entire length plus numerous high end hotels lining both sides of Huay Kaew Rd .
-
-
-Northside
-
-
-A lot quieter than other parts of town because most visitors head straight into downtown after arriving at Chiang Mai International Airport via AIS Airport Service Express Bus Terminal . In addition there aren’t many attractions nearby apart from Nimmanhaemin Rd ; however this doesn’t mean things have been left completely neglected by tourism because all along Huay Kaew Rd you can find lots of cute cafés offering wi-fi internet service. A few places offer free wi-fi service including Apple Pie Cafe Offline map Google map( Nimmanhaemin/Huay Kaew Rd) ; Wateena Café Offline map Google map( 15/4 Nimmanhaemin/Huay Kaew Rd) ; Tea Tree Café Offline map Google map( 51/1 Nimmanhaemin/Huay Kaew Rd) ; Tawan Guesthouse Offline map Google map( 08 1763 1378; www.thailandhostelzguideblogcom 08 1763 1378; 15/1W Fang Payom Kangmuang Khwaeng Khun Yuam Chiang Mai 50100) and Roast Coffee House Offline map Google map( 33 Nimmanhaemin/Huay Kaew Rd) . If you want internet access away from these cafés then head over to Bluedragon Internet Cafe Offline map Google map( 0 5326 1221; 22 Khunlumprapas Lane 5 Nong Hoi 5 Alley Khunlumprapas Lane 5 Nong Hoiphan Neighbourhood unit 2 unit 2 530005032171020405030131Nonghoihai@yahoo com 250B per hour ) . It offers fast connections and reasonable prices but only opens during business hours so isn’t useful if you need access at odd hours such as early morning or late at night . There is another branch next door called Siam Internet Cafe that charges slightly higher fees but stays open 24 hours if needed . Both can help set up internet connections if needed . Another northside option worth mentioning is Herbal Sauna & Massage Center Offline map Google map( 0 5327 5052; 26 Bawdeejit Green Tea Lane 250B per hour ) . This place offers massage services plus herbal sauna rooms in which customers can steam themselves while drinking tea made from various herbs grown in their garden plus sip complimentary juices made from tropical fruits grown in their garden ! These services are very relaxing indeed! The sauna centre also organises weekly events including cookouts featuring local food products made using local products such as honey or coffee beans etc . There are several other small grocery stores located within walking distance selling products not commonly found elsewhere in Thailand such as Australian meat pies ! Be sure to bring your passport when visiting this area because all foreigners must register with immigration officials within 24 hours upon arrival into Thailand . Some guesthouses offer pick up service for this process while others require guests take public transport themselves since they may not have time during business hours when guests arrive since they need to keep working! Here are some additional addresses where foreigners must register : Airport Police Division 0 5327 1212 West Precinct Police Station 0 5322 6111 North Precinct Police Station 0 5327 6999 East Precinct Police Station 0 5332 0877 South Precinct Police Station 0 5321 6584 Immigration Office 0 5324 7620 Royal Thai Police Headquarters 0 5327 6121 Immigration Office Extension Office 10am-5pm Mon-Fri 0 5332 0437 Tourist police office 1st fl 400B per day cash deposit 500B cash deposit 500B cash deposit 500B cash deposit 500B cash deposit 500B cash deposit 500B cash deposit 500B cash deposit 500B cash deposit 500B cash deposit 500B cash deposit 500B cash deposit 500B payment upon leaving office payment upon leaving office payment upon leaving office payment upon leaving office payment upon leaving office payment upon leaving office payment upon leaving office payment upon leaving office payment upon leaving office 2nd fl 8am-noon Sat 9am−noon Sat 10am−noon Sun 9am−3pm Tue & Thu 8am−12pm Tue & Thu 8am−12pm Tue & Thu 8am−12pm Tue & Thu 8am−12pm Tue & Thu 8am−12pm Tue & Thu 8am−noon Wed Registration begins every 40 minutes beginning at 9:30 am Registration begins every 40 minutes beginning at 9:30 am Registration begins every 40 minutes beginning at 9:30 am Registration begins every 40 minutes beginning at 9:30 am Registration begins every 40 minutes beginning at 10 am Registration begins every 50 min beginning at 11 am Registration begins every 40 min beginning at 11 am Registration begins every 50 min beginning at 11 am Registration begins every 50 min

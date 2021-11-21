@@ -1,18 +1,22 @@
 ---
-          title: Ecolodge Madikew Game Reserve
-          description: Ecolodge Madikew Game Reserve is a rural ecolodge...
-          date: 2017-05-22
-          scheduled: 2017-05-22
-          tags:
-          - plains
-          - Ecolodge Madikew Game Reserve
-          - Ecolodge
-          layout: layouts/post.njk
-          image: "../../img/plains/pexels-saifuddin-ratlamwala-3849687.jpg"
-          ---
-          
-          ![Ecolodge Madikew Game Reserve](../../img/plains/pexels-saifuddin-ratlamwala-3849687.jpg)
-          
-          Ecolodge Madikew Game Reserve is a rural ecolodge in the heart of the Limpopo Province of South Africa. The lodge is a haven for nature lovers and birders, who can enjoy a relaxing break in a paradisiacal setting. Tucked away in the rolling hills of the Madikew Game Reserve, surrounded by pristine natural scenery, this secluded lodge offers peace and tranquility. The Madikew Game Reserve is part of the Fynbos Biome and boasts one of the largest populations of Red-Billed Queleas in South Africa. The lodges own private game reserve stretches over 400 hectares and includes indigenous bushveld, fynbos shrub land, grassland and floodplains providing habitat for prolific wildlife. Guests can enjoy game drives through these habitats with their expert ranger guides to spot animals such as bushbuck, zebra, eland, gemsbok (oryx), blesbok (oryx), kudu (oryx), duiker (antelope) and steenbok (antelope).
+title: Ecolodge Madikew Game Reserve
+description: Ecolodge Madikew Game Reserve is a charming ecolodge...
+date: 2021-07-04
+scheduled: 2021-07-04
+tags:
+- plains
+- Ecolodge Madikew Game Reserve
+- Ecolodge
+layout: layouts/post.njk
+image: "../../img/plains/pexels-pixabay-259411.jpg"
+---
 
-The lodges focus is on conservation; Madikew Game Reserve was established in 2003 to protect this species-rich ecosystem for future generations to come.
+![Ecolodge Madikew Game Reserve](../../img/plains/pexels-pixabay-259411.jpg)
+
+Ecolodge Madikew Game Reserve is a charming ecolodge that has 9 thatched cottages, each with private bathroom. They are very comfortable and beautifully decorated.
+
+Madikwe Game Reserve is one of South Africa’s newest game reserves. It was created in 2000 by the WWF and Wilderness Safaris, to provide a home for the magnificent black rhino population that was being decimated by poachers. There are now over 800 rhinos living in Madikwe, making it the largest black rhino sanctuary in Africa.
+
+Madikwe is also home to many other species of Southern African wildlife, including the Big Five – lion, leopard, buffalo, elephant and rhino – as well as cheetah, wild dog, giraffe and more than 400 bird species.
+
+The landscape is stunning with rolling hills covered by bushveld trees and wildlife roaming freely across the plains. The reserve is surrounded by a 9km electric fence to prevent poachers from entering the area. This makes it much safer to walk around during game drives. There are seven different types of lodges within Madikwe Game Reserve: 3 Wilderness lodges (two of which are located inside Madikwe National Park) and 4 Wilderness tented camps (all located outside Madikwe National Park).

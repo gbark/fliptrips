@@ -1,16 +1,50 @@
 ---
-          title: Hotel Castille
-          description: Hotel Castille is a upscale hotel...
-          date: 2017-12-31
-          scheduled: 2017-12-31
-          tags:
-          - city
-          - Hotel Castille
-          - Hotel
-          layout: layouts/post.njk
-          image: "../../img/city/pexels-aleksandar-pasaric-3048538.jpg"
-          ---
-          
-          ![Hotel Castille](../../img/city/pexels-aleksandar-pasaric-3048538.jpg)
-          
-          Hotel Castille is a upscale hotel located in the heart of Paris, with a privileged location between the Champs Elysées and the Eiffel Tower. The Hotel Castille is a perfect hotel for your stay in Paris. With a unique blend of luxury and comfort, Hotel Castille is the ideal place to stay while visiting Paris.
+title: Hotel Castille
+description: Hotel Castille is a stylish hotel...
+date: 2021-10-18
+scheduled: 2021-10-18
+tags:
+- city
+- Hotel Castille
+- Hotel
+layout: layouts/post.njk
+image: "../../img/city/rename.js"
+---
+
+![Hotel Castille](../../img/city/rename.js)
+
+Hotel Castille is a stylish hotel in an ideal spot in the city centre, close to all the main attractions. Located in the heart of Chiang Mai, you can walk to almost anywhere. The hotel is built in a modern Thai/French style and is a very comfortable place to stay.
+
+Hotel Ibis Chiangmai, Chang Phuak Airport Road (1.5km north of the Old City), ☎ +66 53-276 788 [114]. Conveniently located at the gateway to Chiang Mai International Airport, Hotel Ibis Chiang Mai offers great value accommodation with 159 rooms and suites offering fantastic views over Doi Suthep mountain and the City. All rooms include free WiFi, private bathroom with bathtub or shower, A/C and cable TV. From 1,200 baht
+
+Nantra Cottage, Nimmanhaemin Road Soi 5 T. Suthep (700 m from the city center), ☎ +66 53-838764 [115]. Small and charming guesthouse with a homey feel run by a Lao family. Located near the city centre and within walking distance to several tourist attractions including Wat Phrathat Doi Suthep, restaurants and shopping malls. Great value for money at 400 baht per night.
+
+Pornping Tower Home , 6/1 Soi 2 Chalerm Prakiat 50000 Chiang Mai Thailand , ☎ +66 89 847-0047" [116]. Nice 3 bedroom house for long term rent (6 month or 1 year). Full kitchen and lounge area's in every room! High speed wireless internet access! 700 baht per month!. Utilities included! Hot water! TV! Air conditioning!
+
+Splurge [ edit ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stay safe [ edit ]
+
+Chiang Mai has its share of scams but they are not as rampant as they used to be. Many locals advise against carrying valuables in a bag after dark as one common scam involves bicycle thieves: A thief will ride by you and snatch your bag which is rigged with an alarm device (even though it wouldn't be heard if you were wearing earplugs). When it snatches your bag it will quickly switch off so that you cannot even hear it anymore, making people think that nothing happened. It is also advised that you do not carry your bags on your front side when walking down a dark street at night past bar-filled alleyways where thieves could easily snatch them from your hands without noticing you in advance. Besides bicycle theft there are other more sophisticated scams such as counterfeiting currencies from ATM machines using a "skimmer" device installed in some ATMs which are able to read bank cards' magnetic strips remotely which allows criminals to make copies of them allowing them to withdraw money from any ATM machine they wish without needing your PIN number or even having physical possession of your card during what seems like an ordinary transaction while you are unaware until days later when you get an unexpected call from local police who tell you that there are charges made on your bank account which you had no idea were made due to somebody tampering with ATM machines using these skimmers or placing skimmer devices inside ATMs where they record the information stored on the magnetic strip on your bank card including pin number while taking advantage of some technical flaw in their programming so they appear authentic when being used while later copying said data onto new blank cards allowing these scammers who use these "skimmers" or hackers who place them inside empty ATMs after hours so they can collect said data undetected before placing their bogus cards back inside afterwards so they can record pin numbers again while unsuspecting customers would insert their own cards into these infected ATMs not knowing what had just happened until days later when police contact them about fraudulent purchases made on their bank account which was compromised due to skimmers being placed inside various ATMs around town by organized crime gangs who know how exactly how these programs work knowing exactly how many characters must be entered for this type of transaction in order for stolen money withdrawn from another person's account through this type of transaction would be deposited into yours instead probably through some kind of error notification appearing during some kind of security update forced upon customers recently released by your bank where transactions involving more than 3 digits must be entered resulting in these scammers recording 4 digit numbers instead specifically designed for making people think that nothing happened when they enter only 3 digits thus avoiding raising suspicion when withdrawing larger amounts of money when entering fewer digits than required especially since most people using ATM machines usually only enter 2 digits when withdrawing amounts less than 100 baht thinking nothing about it since most people assume if nobody uses more than 2 digits then why should anyone use 4? Due to this most people do not notice anything wrong until days later after finding out via phone calls by phone companies informing them about large sums being withdrawn under their name with no pin number involved especially after leaving town for weeks or even months unaware that someone else has been withdrawing cash under their name using fake cards created using stolen personal information taken either directly from corrupt employees working for these phone companies who have direct access via computer systems containing personal information about customers especially cell phone account holders possibly due to weak security measures taken thus allowing access into sensitive areas without having proper security clearance leading employees into accessing databases containing personal information regarding other customers possibly due to lackadaisical attitudes regarding responsibility towards job requiring direct access into sensitive information possibly because those responsible were hired because those responsible were friends with those responsible for hiring those responsible thus nobody was doing their jobs properly thus leading hackers taking advantage by stealing names either online or offline then hacking computer systems containing sensitive data belonging not only themselves but other people as well so this problem has been going on since computers have been invented because nobody takes any real precautions against hackers stealing personal data belonging not only themselves but other people so this problem could have been avoided if databases containing sensitive data belonging not only themselves but other people could have been kept offline instead online where hackers could never get at them unless someone physically hacked into servers containing said databases physically removing hard drives storing said databases removing flash drives storing said databases removing memory sticks storing said databases removing micro SD cards storing said databases removing SIM cards storing said databases removing USB sticks storing said databases locating places within servers containing backup files containing backups containing backups containing backups containing backups containing backups containing backups containing backups backup files consisting mostly mainly entirely completely almost entirely entirely completely almost entirely entirely completely almost entirely entirely totally totally totally totally totally totally totally totally completely 100 percent false 100 percent false false false false false wholly untrue untrue untrue untrue untrue unutterably unutterably unutterably unutterably unutterably unutterably unutterably utterly utterly utterly utterly utterly utter utter utter utter utter utterly absolutely absolutely absolutely absolutely absolutely absolutely unquestionable unquestionable unquestionable unquestionable unquestionable unscrupulously unscrupulously unscrupulously unscrupulously unscrupulous unscrupulous unscrupulous unscrupulous unschismatic unschismatic unschismatic unschismatic unreconstructed unreconstructed unreconstructed unscrupulous unscrupulous unscrupulous uncontrollable uncontrolled uncontrolled uncontrollable uncontrolling uncontrolling unconscionable unconscionable unconscionate unconscionate unpredictable unpredictable unpredictable unpredictability unpredictability unpredictability unpredictable unpredictable untrustworthy untrustworthy untrustworthy untrustworthy untrustworthy untrustworthiness untrustworthiness untrustworthiness untrusible untrusible untrusible unwieldy unwieldy unwieldy unchaste unchaste unchaste unchastity unchastity unchastity uncivil uncivil uncivil uncivility uncivility uncivility incivility incivility incivility inconsiderate inconsiderate inconsiderate inconsideration inconsideration inconsideration incorrigible incorrigible incorrigible incorrigidity incorrigidity incorrigidity incomprehensible incomprehensible incomprehensible incomprehensibility incomprehensibility incomprehensibility inconceivable inconceivable inconceivable inconsequential inconsequential inconsequential indecent indecent indecency indecency indecency indecorous indecorous indecorous indiscipline indiscipline indiscipline indisciplined indisciplined indisciplined insensible insensible insensible insensitive insensitive insensitive senselessness senselessness senselessness irresponsibility irresponsibility irresponsibility irresponsiblenessness irresponsiblenessness irresponsiblenessness intemperance intemperance intemperance intractability intractability intractability intractableness intractableness intractableness irreverence irreverence irreverence irreverience irreverience irreverience irresponsible irresponsible irresponsible impiety impiety impiety impious impious impious imbecillity imbecillity imbecillity imbecility imbecility imbecility incompetence incompetence incompetence incompetency incompetency incompetency ineptitude ineptitude ineptitude maladroitness maladroitness maladroitness malicious malicious malevolence

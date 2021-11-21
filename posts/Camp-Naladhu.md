@@ -1,22 +1,23 @@
 ---
-          title: Camp Naladhu
-          description: Camp Naladhu is a ecological camp...
-          date: 2020-07-23
-          scheduled: 2020-07-23
-          tags:
-          - plains
-          - Camp Naladhu
-          - Camp
-          layout: layouts/post.njk
-          image: "../../img/plains/pexels-oleg-magni-861339.jpg"
-          ---
-          
-          ![Camp Naladhu](../../img/plains/pexels-oleg-magni-861339.jpg)
-          
-          Camp Naladhu is a ecological camp, where you can enjoy of nature, mountains, jungle and culture of rural village. It is located on the way to Kandy, approximately 60 km away from Kandy. The name of Naladhu means "Tranquility" in Sinhalese language.
+title: Camp Naladhu
+description: Camp Naladhu is a remote camp...
+date: 2021-07-20
+scheduled: 2021-07-20
+tags:
+- plains
+- Camp Naladhu
+- Camp
+layout: layouts/post.njk
+image: "../../img/plains/pexels-rodnae-productions-7894962.jpg"
+---
 
-The camp is situated in a private land (5 Ha) surrounding by mountains. This area is a good area for hiking in the morning and in the afternoon you can enjoy in a beautiful sun set with amazing view in front of you.
+![Camp Naladhu](../../img/plains/pexels-rodnae-productions-7894962.jpg)
 
-The Camp has a 4 rooms bungalow which is surrounded by trees and mountain. Each room has a private balcony with chairs where you can relax after you finish your day trips. Every room has an attached bathroom with hot water shower facilities. We have also 2 connecting rooms which can be booked together for families or friends who want to travel together. In the camping ground there are 3 tents available for rent at reasonable price to accommodate 2-3 persons each tent (please enquire from us).
+Camp Naladhu is a remote camp site in the Baliem Valley on the north side of the Baliem Valley, which is about 55 km north of Wamena. The name Naladhu means "Land of the Waterlilies" in local Dani language. As its name implies, Naladhu is a beautiful place surrounded by an abundance of water, where water lilies grow naturally. Naladhu is situated on the bank of the Baliem River with a length of about 3.5 km. The river runs through many rapids and is surrounded by cliffs on both sides. The waters are clear and clean providing good fishing for native people living nearby.
 
-Naladhu also have a camping ground where we can accommodate our guests, but this space will only be used if we have enough people staying at Naladhu during that time frame, because it is an ecological camp we do not use any chemical product to kill mosquito or any kind of insects so if there are many mosquitoes around our guests will not feel comfortable during their stay so please consider this before booking your stay at Naladhu for camping activities if you have big family or group. We will do our best to keep them out from our camping ground but there are jungle surroundings so it may happen from time to time that some mosquitoes come inside the campsite and we cannot prevent this 100%.
+Naladhu was established as a remote clinic for STF (Student Team Foundation) in 1981 with the help of Australian volunteers, Mr Fred Mogg and Mrs Val Hoddle who were working at STF at that time. Their aim was to provide basic health care services to local people living around Baliem Valley whom were very isolated even from other villages in that valley due to high peaks surrounding it. There were no roads or any other transportation way there at that time, but only footpaths to cross over mountains and valleys which caused difficulties to reach there especially during rainy season when pathways were covered with mud or washed away by torrents carried down by heavy rains which would normally last for 3–4 months per year.
+
+The first clinic was built using bamboo with earth flooring and grass roofing with total area less than 10 square meters without electricity or running water. Most basic health care services could be provided there such as minor surgery (e.g.: removal teeth), childbirth assistance, vaccinations for children, physiotherapy sessions etc. During 1981-1985 when Mr Mogg and Mrs Hoddle worked there they also provided schools for local children because previous schools in that area had been either destroyed during fighting between Dani tribes or because they had moved out due to fighting during tribal wars between Dani tribes over traditional territories or hunting grounds since 1970s up to 1990s when tribal wars ceased in Papua Province due to government's efforts under special autonomy program in Papua Province implemented since 2001–2004 after East Timor became independent from Indonesia in 1999 . Today there are four schools around Baliem Valley operated by STF (Student Team Foundation).
+
+When Mr Mogg left STF (Student Team Foundation) in 1985 he gave responsibility for running this clinic to Dr Peter Ward who was one of volunteers working at this clinic until 1991 when he returned back home . Dr Peter Ward also built another small clinic next to his house using concrete flooring and roof made out of metal sheeting replacing earlier structure built by Mr Mogg using bamboo . He also built two separate shelters next his house where patients could stay overnight if needed because it took 2 days walking along mountain paths from this remote clinic up until down stream Wamena town where main road ends . This remote clinic was finally closed down in 1992 after Dr Ward left Papua New Guinea back home after spending almost 20 years working with STF (Student Team Foundation) .
+

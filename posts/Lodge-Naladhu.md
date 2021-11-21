@@ -1,22 +1,21 @@
 ---
-          title: Lodge Naladhu
-          description: Lodge Naladhu is a isolated lodge...
-          date: 2020-07-07
-          scheduled: 2020-07-07
-          tags:
-          - plains
-          - Lodge Naladhu
-          - Lodge
-          layout: layouts/post.njk
-          image: "../../img/plains/pexels-amy-chung-672706.jpg"
-          ---
-          
-          ![Lodge Naladhu](../../img/plains/pexels-amy-chung-672706.jpg)
-          
-          Lodge Naladhu is a isolated lodge in the middle of the jungle. You have to walk for 30 min through the forest to reach there.
+title: Lodge Naladhu
+description: Lodge Naladhu is a upscale lodge...
+date: 2020-12-09
+scheduled: 2020-12-09
+tags:
+- beach
+- Lodge Naladhu
+- Lodge
+layout: layouts/post.njk
+image: "../../img/beach/pexels-brent-keane-1702372.jpg"
+---
 
-It is located in a pristine rainforest, 2 hours away from Bandarawela and 3 hours from Haputale. The lodge is simple but comfortable with 9 rooms.
+![Lodge Naladhu](../../img/beach/pexels-brent-keane-1702372.jpg)
 
-The rooms have a private bathroom, hot water, electric light and a terrace with a hammock to relax at night after a hard day. The view from the rooms is amazing through a window facing a small rice field and the other, on the other side, there is nothing but jungle.
+Lodge Naladhu is a upscale lodge situated in the heart of Kumana National Park, Sri Lanka. It is a wildlife sanctuary with a variety of wildlife including an elephant population.
 
-Lodge Naladhu has no restaurant or room service so you have to bring food with you or ask for cooking local food for you by the owner Mrs. Dinesh who will prepare everything traditional Sri Lanka style with fresh products from her farm. We ordered chicken curry and vegetable curry and they were delicious!
+Kumana National park has the largest population of elephants in Sri Lanka. The elephants are featured in the logo of the lodge. Kumana National Park is home to a wide range of animals including leopards, wild buffaloes, deer, Nilgiri langurs and many varieties of birds.
+
+Kumana National Park was established in 1975 under the Wildlife Ordinance No. 31 of 1972 to protect this unique ecosystem. The park is accessible via Oluvil Beach on the southern coast, approximately 50 kilometres from Matara town. There are two entrances to the park - one via Oluvil and another via Udawalawe.
+

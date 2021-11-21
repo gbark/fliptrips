@@ -1,27 +1,22 @@
 ---
+title: Lodge Osa Peninsula
+description: Lodge Osa Peninsula is a rustic lodge...
+date: 2016-06-22
+scheduled: 2016-06-22
+tags:
+- jungle
+- Lodge Osa Peninsula
+- Lodge
+layout: layouts/post.njk
+image: "../../img/jungle/pexels-evgenia-basyrova-5029310.jpg"
+---
 
-          title: Lodge Osa Peninsula
-          description: Lodge Osa Peninsula is a jawdropping lodge...
-          date: 2020-06-05
-          scheduled: 2020-06-05
-          tags:
-          - jungle
-          - Lodge Osa Peninsula
-          - Lodge
-          layout: layouts/post.njk
-          image: "../../img/jungle/pexels-pierre-blaché-2901215.jpg"
-          ---
+![Lodge Osa Peninsula](../../img/jungle/pexels-evgenia-basyrova-5029310.jpg)
 
-          ![Lodge Osa Peninsula](../../img/jungle/pexels-pierre-blaché-2901215.jpg)
+Lodge Osa Peninsula is a rustic lodge on a small peninsula on the southern coast of Osa Peninsula in Costa Rica, overlooking the Golfo Dulce. The lodge has six rustic cabins set on a sloping lawn covered in tropical flowers with an excellent view of the gulf.
 
-          Lodge Osa Peninsula is a jawdropping lodge where guests can experience the real Costa Rica. It’s the perfect place to stay if you want to experience nature at its best and meet the locals.
+Finca Rosa Blanca Coffee Plantation & Inn Finca Rosa Blanca Coffee Plantation & Inn is located on the SW foothills of the Talamanca Mountain range, within the Braulio Carillo National Park and Biological Reserve, which was established in 1979 and is home to more than 240 species of birds and animals, including Baird’s tapir, white-faced capuchin monkeys, red-tailed squirrels and many others.
 
-It offers a range of activities including rafting, horseback riding and hiking, as well as a yoga platform and a massage hut.
+The Lodge at Los Guayabos The Lodge at Los Guayabos is located near one of Costa Rica’s most famous national parks – Corcovado National Park – one of the best places to view wildlife in all of Costa Rica. It has 5 luxury tented bungalows overlooking the ocean with ocean front bathrooms and private decks. Each bungalow can accommodate 2 to 4 people.
 
-The lodge is designed with local architecture and features four-poster beds and enormous bay windows overlooking the Osa Peninsula and Pacific Ocean.
-
-There are two restaurants at the lodge, one that serves fresh seafood caught from the Pacific Ocean and another that specializes in wood-fired pizza. Both overlook the jungle canopy.
-
-“The environment around us was just breathtaking,” said guest Grace Chiang. “The service was top notch – I can’t say enough good things about this hotel – it was magical!”
-
-Best for: nature-lovers who want a romantic getaway or a relaxing family vacation
+Iguanazul Jardines del Rey Iguanazul Jardines del Rey is located on a private reserve just outside Corcovado National Park on the Osa Peninsula. The lodge consists of 4 individual villas that are built with natural materials such as rammed earth walls, thatched roofs and stone floors with leather walls. There are no roads or electricity at Iguanazul Jardines del Rey but there are well-maintained trails to all parts of this private reserve where guests can hike or ride horses to see monkeys, anteaters, coatis, agouti and howler monkeys during their visit.

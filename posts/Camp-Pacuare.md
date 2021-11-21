@@ -1,25 +1,26 @@
 ---
+title: Camp Pacuare
+description: Camp Pacuare is a magical camp...
+date: 2017-09-05
+scheduled: 2017-09-05
+tags:
+- jungle
+- Camp Pacuare
+- Camp
+layout: layouts/post.njk
+image: "../../img/jungle/pexels-james-wheeler-1534057.jpg"
+---
 
-          title: Camp Pacuare
-          description: Camp Pacuare is a breathtaking camp...
-          date: 2017-10-09
-          scheduled: 2017-10-09
-          tags:
-          - jungle
-          - Camp Pacuare
-          - Camp
-          layout: layouts/post.njk
-          image: "../../img/jungle/pexels-iván-rivero-1001965.jpg"
-          ---
+![Camp Pacuare](../../img/jungle/pexels-james-wheeler-1534057.jpg)
 
-          ![Camp Pacuare](../../img/jungle/pexels-iván-rivero-1001965.jpg)
+Camp Pacuare is a magical camp, it’s secluded, the guides are amazing, the food was good and I got to see a sloth! The zip lining was amazing too.”
 
-          Camp Pacuare is a breathtaking camp with stunning views of the river, canopy walks and hanging bridges. The following is an excerpt from their website:
+– Leah, High School student
 
-Explore the rainforest canopy on a series of high rope bridges between platforms located 15-40 feet above the forest floor.
+“It was amazing! I would recommend the trail hike/zip line to everyone who wants to get out of the city. It was nice to be in nature and away from all the distractions of daily life.”
 
-Hike through pristine rainforest to our private beach where you can relax with a picnic lunch, take a dip in the refreshing river, or try your hand at fishing.
+– Melissa, High School student
 
-Enjoy three tasty meals served daily under our open-air palapa.
+“I loved it! The views were incredible! It felt like we were in another world. I would definitely return in the future with friends or family members.”
 
-Camping at Camp Pacuare is available on an exclusive basis for groups of up to 12 people, making for an idyllic retreat any time of year. Camp Pacuare offers some of the best white water rafting in Costa Rica on its Class II+ section of the Rio Pacuare on which you will experience some of the most exciting rapids on river right! It is also one of our favorite adventure travel destinations in Costa Rica with many first-rate outfitters offering whitewater rafting trips here. Other activities include hiking on canopy walkways and zip lining.
+– Pamala, High School student

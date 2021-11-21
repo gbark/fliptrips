@@ -1,18 +1,20 @@
 ---
-          title: Ranch Naladhu
-          description: Ranch Naladhu is a spiritual ranch...
-          date: 2017-10-30
-          scheduled: 2017-10-30
-          tags:
-          - plains
-          - Ranch Naladhu
-          - Ranch
-          layout: layouts/post.njk
-          image: "../../img/plains/pexels-saifuddin-ratlamwala-3849687.jpg"
-          ---
-          
-          ![Ranch Naladhu](../../img/plains/pexels-saifuddin-ratlamwala-3849687.jpg)
-          
-          Ranch Naladhu is a spiritual ranch for recovery of the soul and mind. We offer a variety of treatments and therapies. The center provides an ideal place for recovery from addictions, alcoholism, drug abuse, depression and mental illness. It is also a wonderful getaway spot to get in touch with nature and find peace and tranquility in the beauty of the mountain surroundings.
+title: Ranch Naladhu
+description: Ranch Naladhu is a ecological ranch...
+date: 2018-04-15
+scheduled: 2018-04-15
+tags:
+- plains
+- Ranch Naladhu
+- Ranch
+layout: layouts/post.njk
+image: "../../img/plains/pexels-frans-van-heerden-631317.jpg"
+---
 
-Naladhu is located at an altitude of 5,000 ft., surrounded by mountains, overlooking the Himalayas on one side and facing a wide expanse of green pastures on the other side.
+![Ranch Naladhu](../../img/plains/pexels-frans-van-heerden-631317.jpg)
+
+Ranch Naladhu is a ecological ranch that aims to re-create the natural ecosystem, providing a sanctuary for wild animals and plants, while at the same time being a place where visitors can experience the richness of nature. The landscape is a unique blend of vegetation, water bodies and a variety of ecosystems.
+
+Ranch Naladhu is a unique eco-resort located in the midst of wildlife sanctuaries in Tamil Nadu. With its 12 acres of lush green forest and almost 400 species of birds, it is like an oasis in the desert.
+
+We offer luxury villa accommodation with all modern amenities such as air conditioning, wireless internet access and satellite TV. Our small eco-friendly resort is surrounded by rainforest vegetation and water bodies that add to its charm.

@@ -1,20 +1,20 @@
 ---
-          title: Ranch Paracas
-          description: Ranch Paracas is a spiritual ranch...
-          date: 2020-03-02
-          scheduled: 2020-03-02
-          tags:
-          - plains
-          - Ranch Paracas
-          - Ranch
-          layout: layouts/post.njk
-          image: "../../img/plains/pexels-antony-trivet-6057042.jpg"
-          ---
-          
-          ![Ranch Paracas](../../img/plains/pexels-antony-trivet-6057042.jpg)
-          
-          Ranch Paracas is a spiritual ranch located in the south of Peru. The ranch is located at an altitude of 3,000 meters above sea level and there are almost no inhabitants in this area. In the area of the ranch you will feel a special energy. In this place there are many temples that were built by the ancient people of Peru. This is a special place where you can find some peace and serenity, while meditating and at the same time enjoying some amazing views of the ocean.
+title: Ranch Paracas
+description: Ranch Paracas is a spiritual ranch...
+date: 2021-05-13
+scheduled: 2021-05-13
+tags:
+- plains
+- Ranch Paracas
+- Ranch
+layout: layouts/post.njk
+image: "../../img/plains/pexels-antony-trivet-6053075.jpg"
+---
 
-Peru’s White City
+![Ranch Paracas](../../img/plains/pexels-antony-trivet-6053075.jpg)
 
-The “White City” is located in the city of Cusco, which is one of Peru's most famous cities. It has been named ‘the white city' because its buildings were built using natural materials such as stone and clay. The city was founded on top of a mountain, which was an important religious center for Inca culture and used to be part of their sacred capital, Cusco. There are many things to see in Cusco such as: beautiful churches, museums and interesting markets where they sell different kinds of food and artisan products that still preserve their original recipes from ancient civilizations such as: Inca and pre-Inca cultures.
+Ranch Paracas is a spiritual ranch, where guests are invited to connect with the spiritual energy of the location, in order to have a more meaningful experience.
+
+"Paracas is a mystical place, it is very special. It has good energy because of its history, culture and nature," says Andrea. "This place is in my heart, in my blood."
+
+Paracas offers the opportunity to have an authentic experience in one of South America's most beautiful places, in a natural setting that includes wild horses, stunning sunsets and the bright stars of the Southern Hemisphere.

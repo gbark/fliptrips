@@ -1,18 +1,20 @@
 ---
-          title: Hotel & Spa St Paul's
-          description: Hotel & Spa St Paul's is a jawdropping hotel & spa...
-          date: 2019-01-17
-          scheduled: 2019-01-17
-          tags:
-          - city
-          - Hotel & Spa St Paul's
-          - Hotel & Spa
-          layout: layouts/post.njk
-          image: "../../img/city/pexels-jimmy-chan-3236903.jpg"
-          ---
-          
-          ![Hotel & Spa St Paul's](../../img/city/pexels-jimmy-chan-3236903.jpg)
-          
-          Hotel & Spa St Paul's is a jawdropping hotel & spa complex in the heart of the city. Once a grandiose 19th century hospital, this amazing five star hotel is now unrivalled for its breathtaking spaces and luxury: superb dining, fine wines and an infinity pool that descends into a secret subterranean cave.
+title: Hotel & Spa St Paul's
+description: Hotel & Spa St Paul's is a electric hotel & spa...
+date: 2018-06-16
+scheduled: 2018-06-16
+tags:
+- city
+- Hotel & Spa St Paul's
+- Hotel & Spa
+layout: layouts/post.njk
+image: "../../img/city/pexels-justin-hamilton-205342.jpg"
+---
 
-The Penthouse at The Bayview Hotel is a unique penthouse suite with panoramic views over the city from its own private balcony. It sleeps four to six people, has a jacuzzi bath, free wifi and DVD player.
+![Hotel & Spa St Paul's](../../img/city/pexels-justin-hamilton-205342.jpg)
+
+Hotel & Spa St Paul's is a electric hotel & spa situated in the heart of downtown Victoria. The hotel is located near many attractions such as the Royal BC Museum, Beacon Hill Park and the beautiful inner harbour.
+
+The hotel is a 3 story building with beautifully decorated rooms. The rooms are well furnished and furnished with quality bedding and linens. Each room has a private bath, hairdryer, cable tv, telephone, clock radio & coffee maker. The rooms are newly renovated with modern amenities & plasma tv's. All this makes for an enjoyable stay in Victoria.
+
+View Hotel & Spa St Pauls on a map

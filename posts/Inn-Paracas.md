@@ -1,17 +1,20 @@
 ---
+title: Inn Paracas
+description: Inn Paracas is a spiritual inn...
+date: 2020-02-29
+scheduled: 2020-02-29
+tags:
+- plains
+- Inn Paracas
+- Inn
+layout: layouts/post.njk
+image: "../../img/plains/pexels-saifuddin-ratlamwala-3849687.jpg"
+---
 
-          title: Inn Paracas
-          description: Inn Paracas is a rustic inn...
-          date: 2020-06-23
-          scheduled: 2020-06-23
-          tags:
-          - plains
-          - Inn Paracas
-          - Inn
-          layout: layouts/post.njk
-          image: "../../img/plains/pexels-saifuddin-ratlamwala-3849687.jpg"
-          ---
+![Inn Paracas](../../img/plains/pexels-saifuddin-ratlamwala-3849687.jpg)
 
-          ![Inn Paracas](../../img/plains/pexels-saifuddin-ratlamwala-3849687.jpg)
+Inn Paracas is a spiritual inn, with beautiful views of both the ocean and the nearby hills. The sunsets are spectacular. Located on the beach, only about 100 meters away from Paracas Bay. It also has a restaurant, bar and room service. The rooms here are elegant and fully equipped, with quality mattresses and linens. There is also parking available.
 
-          Inn Paracas is a rustic inn with simple, cozy rooms and a great beach, just a half-block from the main drag. The building has been expanded several times to hold the 12 comfortable rooms and four apartments, which share three private beachfront terraces and a Jacuzzi in the garden. It’s in a residential neighborhood on the edge of the village, but it’s just a five-minute walk to restaurants and shops. All units have private baths and hammocks on their patios.
+Hotel in Paracas
+
+Hospedaje El Paraíso is in a perfect location, right in front of Paracas Bay, offering great views of the bay, Islas Ballestas and the town. Inside it has a restaurant that serves typical food from this area, including fresh seafood caught in the bay. The rooms are comfortable and clean, with cable TV and private bathrooms. It also offers free Wi-Fi throughout its facilities, 24 hour security service and hot water in all areas of the hotel.

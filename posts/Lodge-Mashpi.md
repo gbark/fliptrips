@@ -1,39 +1,64 @@
 ---
+title: Lodge Mashpi
+description: Lodge Mashpi is a rustic lodge...
+date: 2018-08-13
+scheduled: 2018-08-13
+tags:
+- plains
+- Lodge Mashpi
+- Lodge
+layout: layouts/post.njk
+image: "../../img/plains/pexels-rachel-claire-4577147.jpg"
+---
 
-          title: Lodge Mashpi
-          description: Lodge Mashpi is a remote lodge...
-          date: 2020-06-17
-          scheduled: 2020-06-17
-          tags:
-          - plains
-          - Lodge Mashpi
-          - Lodge
-          layout: layouts/post.njk
-          image: "../../img/plains/pexels-rodnae-productions-7894962.jpg"
-          ---
+![Lodge Mashpi](../../img/plains/pexels-rachel-claire-4577147.jpg)
 
-          ![Lodge Mashpi](../../img/plains/pexels-rodnae-productions-7894962.jpg)
+Lodge Mashpi is a rustic lodge perched on a cliff overlooking the rushing water of the Rio Mashpi. It has three rooms, all with private bathrooms and hot water. The rooms are wood-floored and decorated with hand-carved furniture; those in the main building have views of the river below. Lodge rooms share a large open-air dining area and kitchen.
 
-          Lodge Mashpi is a remote lodge accessible only by boat and located at the southern end of the Yanayacu Biological Corridor. The lodge has nine rooms (one is pet friendly) and a dining hall where meals are served family style. Activities include birdwatching, boating, hiking and community tourism visits to local communities.
+Lodge Casa Andina San Gil ( MAP GOOGLE MAP ; %064-34-2484; www.casa-andina.com; Av Los Incas s/n; d incl breakfast S340; iW)
 
-This jungle lodge is run by the Manu Wildlife Center and is located within the park boundaries – it’s a great option for those who want to support sustainable tourism in Peru. The lodge has five simple rooms with shared facilities, plus a bar and restaurant that serves three tasty meals daily plus snacks throughout the day. The prices are per person per day, including meals, activities and transfers from Cuzco to the Manu Wildlife Center at Puerto Maldonado (about 45 minutes), but excluding park fees of S100 per person per day (paid directly to the park upon arrival).
+This comfortable hotel has 20 spacious, elegant rooms with wooden floors and traditional furnishings, including carved wardrobe closets and four-poster beds draped in mosquito nets. There's a pleasant common area with views of the lush gardens and river below, as well as an inviting restaurant (mains S22 to S30).
 
-Eating
 
-There are several comedores on or near Av El Sol in Puerto Maldonado. There are also several good restaurants in town including some with views of the riverfront on Av El Sol between Calles 28 de Julio and Hualinga, which can be reached on foot via an elevated walkway that connects them all.
+Hotel Don DavidHOTEL $$$
 
-Information
+( MAP GOOGLE MAP ; %064-25-5300; www.hoteldonavidasangil.com; Calle 2 de Mayo 205; s/d incl breakfast from S440/520, ste from S570; iWs)
 
-Money
+The best hotel in town is right next to the Iglesia de San Gil on a quiet street. The tastefully decorated rooms are furnished with wood furniture, including two double beds, armoires and wardrobes, dressers or writing desks outfitted with telephones or radios that work up here in the clouds! The service is excellent, as are the grounds – they’re beautifully landscaped for strolling between buildings – which include a pool surrounded by gardens of begonias, heliconias and bromeliads blooming among rocks and sculptures by local artists.
 
-All of the banks on Av El Sol have ATMs that accept Visa cards, but they charge between 3% and 4% of your withdrawal amount for using them. If you have an Amex card or another type of credit card without a PIN number you can use it at most travel agencies in town to get cash advances on your credit card against your deposit receipts from tour operators or accommodations – these usually don’t charge any fees although there’s always some chance they might be able to see your account information if they call your bank for verification after you leave town (so it’s best not to use this option unless you don’t mind someone knowing how much money you have). Most banks will change traveler’s checks but it may take some time (bring small bills with you when exchanging large denominations).
 
-Tourist Information
+5Eating & Drinking
 
-The Oficina de Información Turística (Av El Sol s/n; 8am-1pm & 2:30-5:30pm Mon-Fri) is helpful for general information about Puerto Maldonado and tours around Peru but if you need information about Madre de Dios specifically this is not the place to go – most locals know very little about their own region! It has useful maps of Puerto Maldonado though so if you need something printed out it’s worth visiting anyway just for that. Also ask here about tours offered by bilingual naturalist guides from Madre de Dios Expeditions (Click here).
+o El DoradoINTERNATIONAL$
 
-Getting There & Away
+( MAP GOOGLE MAP ; %064-25-5307; Calle 5 de Agosto 270A; mains S10-23)
 
-Air
+An art gallery that serves food? Yep! This funky eatery has an eclectic menu that ranges from Mexican to Italian to Indian fare – or just grab some empanadas (turnovers filled with meat or cheese) for S3 each on your way down here to drink beer on their big patio overlooking Río Pastaza. It’s open Tuesday through Sunday noon to 11pm or later most days except Wednesday when it’s closed until 8pm (reservations advised).
 
-LC Peru (www.lcperu.pe) flies four times per week between Lima and Puerto Maldonado via Tarapoto aboard its twin turboprop planes which seat eight passengers each – flights cost around US$300 one way depending on season times/dates etc accomondation@manunaturelodge .com). LC Peru departs from Aeropuerto Alejandro Velasco Astete in Tarapoto while Peruvian Airlines has its office right outside LC Peru’s office at Aeropuerto Alejandro Velasco Astete in Tarapoto city center near Hotel Casa Andina Larco Tarapoto (%065-81-2355; http://tarapotohotelcasayandinalarco.com; Av José Larco s/n) so if you book through PPeruvian Airlines only make sure you get a flight departing from Aeropuerto Alejandro Velasco Astete in Tarapoto so as not to get confused about which airport actually needs to be booked through PPeruvian Airlines! PPeruvian Airlines flies twice daily from Lima directly into Aeropuerto Alejandro Velasco Astete in Tarapoto city center arriving at 8:50am & 6:45pm Monday through Friday only while Saturdays there are two direct flights from Lima arriving at 7:50am & 4:40pm – PPeruvian Airlines does not fly direct into Puerto Maldonado due to issues related with their lease agreements with airports around Madre de Dios…but never fear! Just buy your flight ticket online through PPeruvian Airlines flying out of Aeropuerto Alejandro Velasco Astete in Tarapoto city center instead of flying out of Aeropuerto Internacional Mateo Pumacahua near Puerto Maldonado town center (Perene) like every other airline does…it might cost a few hundred soles more than flying out of Perene but at least it avoids all this confusion! Other domestic airlines serving Puerto Maldonado include LAN (%01-213-8200; www.lan.com), TANS (%01-705-9000; www.tansperu.com), Star Perú (%01-705-9000; www.starperu .com) and SAETA (%051-417520; www .saetaperuana .com). LAN offers cheap tickets sometimes as low as US$75 one way between Lima and Puerto Maldonado yet rarely if ever actually offers any availability when checked online so we recommend booking tickets directly through LC Peru instead which has more reliable availability options available even though their tickets may cost slightly more than LAN's cheap fares sometimes...but again never mind because once again this whole issue can be avoided entirely by booking cheap flights online directly through LC Peru anyways instead of booking expensive flights through SAETA which only operates flights between Arequipa & Madre de Dios region…but again never mind! You don't need any more information than that anyway because once again just buy your tickets online directly through LC Peru anyways since sometimes they're even cheaper than doing so via SAETA even though it's often hard finding any availability whatsoever…but once again don't worry because just buy your tickets via LC Peru anyways since sometimes they're even cheaper than doing so via SAETA even though it's often hard finding any availability whatsoever...
+
+Cafe de ParisCAFE$
+
+( MAP GOOGLE MAP ; Av Los Incas s/n; snacks & pastries from S4; h8am-7pm Mon-Fri)S
+
+
+MaremotoINTERNATIONAL$$$$
+
+(%064-25-5401; www.restaurantemaremotoangilperuano.com; Parque Moquegua s/n; mains S28-50)S
+
+
+Restaurante Madre NaturaVEGETARIAN$$$$
+
+(www.madrenaturaecotravelperu.blogspot.com/2010/10/la_casona_de_san_gil_restaurante_madre_1_.html; La Casona Hotel & Spa, Parque Moquegua s/n; mains S30)S
+
+
+8Information
+
+				BCP BankBANK
+
+				(Av Los Incas s/n)
+
+				Tourist OfficeTOURIST INFORMATION
+
+				(%064-34 2273 ext 235 / 235 ext 244 / 244 ext 256 / 256 ext 241 / 241 ext 223 / 223 ext 234 / 234 ext 252 / 252 ext 291 / 291 ext 291 / 292 792 9393 ; http://turismoangil@gmailcom)
+
+			 	 ƒtCELLULAR PHONE SERVICES: There are several places along Av Los Incas where you can rent cell phones for when you get into trouble out in nature: Movistar (%914 7594), Claro (%913 4222), Entel (%911 0337), Nextel (%914 9955). All charge around S3 per day for camera phones or around US$5 per day for smartphones such as iPhone or Samsung Galaxy series models equipped with GPS tracking systems that allow you to use Google Maps to trace your path even when you don’t have reception! Prices could change without notice though so call ahead if you want one of these phones specifically but don’t want to spend much money on it either! You can also buy cheap no name phones here at half price if you need one that works for this trip at least! Some phone companies will also change money at better rates than banks do! Just ask which companies do this up front before going anywhere else because each company might charge different rates than others so ask around first since we aren't responsible if they charge different rates than others did previously so always check first so we aren't responsible if they charge more than anyone else did before either so always check first because we aren't responsible if they charge more than anyone else did before either so always check first because we aren't responsible if they charge different rates than others did previously so always check first because we aren't responsible if they charge more than anyone else did before either so always check first because we aren't responsible if they change their prices without notice since this book is printed well beforehand anyway then who knows what might be going on at any given moment?!?!!? Since this book is printed well beforehand anyway then who knows what might be going on at any given moment?!?!!? Since this book is printed well beforehand anyway then who knows what might be going on at any given moment?!?!!? Since this book is printed well beforehand anyway then who knows what might be going on at any given moment?!?!!? Since this book is printed well beforehand anyway then who knows what might be going on at any given moment?!?!!?)CALL CENTER: This city doesn’t really get many tourists here but there's a call center set up just in case someone does get lost out there in nature somewhere that isn't able to contact tourist services via phone anywhere else! So just in case someone does get lost out there in nature somewhere that isn't able to contact tourist services via phone anywhere else just call 0800 028 0886 toll free within Peru 24 hours daily since no one ever uses this number anyways since there are very few tourists here anyways!!! So just call it 24 hours daily since no one ever uses this number anyways since there are very few tourists here anyways!!! So just call it 24 hours daily since no one ever uses this number anyways since there are very few tourists here anyways!!! So just call it 24 hours daily since no one ever uses this number anyways since there are very few tourists here anyways!!! So just call it 24 hours daily since no one ever uses this number anyways since there are very few tourists here anyways!!! So just call it 24 hours daily since no one ever uses

@@ -1,20 +1,16 @@
 ---
-          title: Suites St. Barts
-          description: Suites St. Barts is a magical suites...
-          date: 2020-03-12
-          scheduled: 2020-03-12
-          tags:
-          - beach
-          - Suites St. Barts
-          - Suites
-          layout: layouts/post.njk
-          image: "../../img/beach/pexels-maahid-photos-4366460.jpg"
-          ---
-          
-          ![Suites St. Barts](../../img/beach/pexels-maahid-photos-4366460.jpg)
-          
-          Suites St. Barts is a magical suites hotel in the heart of St. Barts. The hotel features 12 suites, each with their own private pool, bbq area and spacious terrace.
+title: Suites St. Barts
+description: Suites St. Barts is a sun-soaked suites...
+date: 2021-03-15
+scheduled: 2021-03-15
+tags:
+- beach
+- Suites St. Barts
+- Suites
+layout: layouts/post.njk
+image: "../../img/beach/pexels-flickr-149622.jpg"
+---
 
-This is the perfect place to enjoy sunbathing or cooling off in your private pool or jacuzzi.
+![Suites St. Barts](../../img/beach/pexels-flickr-149622.jpg)
 
-The Suites St. Barts is located on the best accessible beach in the island, Des Sables beach, right next to Gustavia harbor. This location is close to all services. The hotel is located in Gustavia town center only 300m away from the largest supermarket of the island and 150m away from Gendarmerie police station.
+Suites St. Barts is a sun-soaked suites hotel located on the picturesque island of St. Barts. Guests benefit from access to the SPA, which offers massages, facials, manicures and pedicures. The hotel also features tennis courts, two swimming pools and a stunning beachfront location. All suites include air-conditioning, a fully equipped kitchen, flat-screen TV and a private terrace or balcony with sea views.

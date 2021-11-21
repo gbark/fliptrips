@@ -1,25 +1,22 @@
 ---
+title: Lodge Paracas
+description: Lodge Paracas is a isolated lodge...
+date: 2020-09-17
+scheduled: 2020-09-17
+tags:
+- plains
+- Lodge Paracas
+- Lodge
+layout: layouts/post.njk
+image: "../../img/plains/pexels-frans-van-heerden-631317.jpg"
+---
 
-          title: Lodge Paracas
-          description: Lodge Paracas is a breathtaking lodge...
-          date: 2020-03-08
-          scheduled: 2020-03-08
-          tags:
-          - beach
-          - Lodge Paracas
-          - Lodge
-          layout: layouts/post.njk
-          image: "../../img/beach/pexels-jess-loiterton-5006981.jpg"
-          ---
+![Lodge Paracas](../../img/plains/pexels-frans-van-heerden-631317.jpg)
 
-          ![Lodge Paracas](../../img/beach/pexels-jess-loiterton-5006981.jpg)
+Lodge Paracas is a isolated lodge situated in a beautiful natural area at the end of a dirt road that crosses a big river. The property has 13 cabins that are simple but comfortable. In this area you can enjoy all kinds of activities such as trekking, bird watching, horseback riding, mountain biking, swimming and kayaking.
 
-          Lodge Paracas is a breathtaking lodge with beautiful views of the Pacific Ocean. It’s located in the heart of Paracas, just minutes away from Las Salinas, an area famous for their white sand dunes. The property features a heated pool and jacuzzi, games room, restaurant and bar, as well as a family friendly atmosphere with fun activities for kids. The lodge also offers free wi-fi access.
+El Cocal is a small lodge in a beautiful natural environment located in the middle of a river in the dry forest. The cabins are simple but comfortable and have an unique design. Activities include bird watching, horseback riding and canoeing.
 
-Location:
+Hostal Los Pinos is a small hostel in the middle of the jungle at the end of a dirt road that crosses a big river. The property has eight cabins with private bathrooms that are simple but comfortable. In this area you can enjoy all kinds of activities such as trekking, bird watching, horseback riding, mountain biking and kayaking.
 
-Lodge Paracas is located in the heart of Paracas, just minutes away from Las Salinas where you can enjoy a day at the beach. It’s also located near to Corrales Beach, which is famous for their seafood restaurants and stands.
-
-Rooms:
-
-Lodge Paracas has 8 double rooms which come equipped with air conditioning, private bathroom with hot water shower and cable TV. All rooms have a private balcony with views of the Pacific Ocean or surrounding mountains. They also have a shared kitchenette and dining area. The rooms are located on the first floor of the lodge and they may not be suitable for travellers with disabilities or limited mobility – please contact our reservations team if you would like further details before booking this accommodation option to ensure that you can access all areas required during your stay at Lodge Paracas as well as any special facilities that you might require during your stay there.
+Pampa Galeras is located right at the entrance to Lago Sandoval on a big ranch with horses and cattle where they offer guided tours to see vicuñas and guanacos. The property has three rustic cabins with private bathrooms. The common areas include an outdoor kitchen for breakfast and lunch served by their staff who also prepare dinner on request for $10 per person (5-8 people).

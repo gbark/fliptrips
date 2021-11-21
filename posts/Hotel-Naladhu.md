@@ -1,22 +1,20 @@
 ---
-          title: Hotel Naladhu
-          description: Hotel Naladhu is a stylish hotel...
-          date: 2020-04-02
-          scheduled: 2020-04-02
-          tags:
-          - beach
-          - Hotel Naladhu
-          - Hotel
-          layout: layouts/post.njk
-          image: "../../img/beach/pexels-asad-photo-maldives-1266833.jpg"
-          ---
-          
-          ![Hotel Naladhu](../../img/beach/pexels-asad-photo-maldives-1266833.jpg)
-          
-          Hotel Naladhu is a stylish hotel in the center of Canggu, just 3 minutes from Echo Beach. It has spacious rooms with free Wi-Fi.
+title: Hotel Naladhu
+description: Hotel Naladhu is a stylish hotel...
+date: 2018-08-21
+scheduled: 2018-08-21
+tags:
+- beach
+- Hotel Naladhu
+- Hotel
+layout: layouts/post.njk
+image: "../../img/beach/pexels-jasmine-ortega-4060149.jpg"
+---
 
-The hotel is located in the Naladhu Art District, just 1 km from Seminyak beach and 1.2km from Canggu Club. Massage, yoga and spa facilities are available at the hotel.
+![Hotel Naladhu](../../img/beach/pexels-jasmine-ortega-4060149.jpg)
 
-The modern rooms feature a private balcony or terrace with sea or garden views. Each room comes with a flat-screen TV and a seating area with sofa bed.
+Hotel Naladhu is a stylish hotel with a colonial charm. The rooms are very comfortable and spacious. Special mention for the neat and clean bathrooms with a decent shower head. A peaceful atmosphere with a garden in front is very refreshing, specially when you have been to crowded places in the city. The breakfast spread was not great but it is OK for a night stay. Overall good experience, with good service from the staffs, especially the receptionist at night shift.
 
-Guests can start their day with a rich breakfast buffet at the restaurant. The restaurant serves international and Indonesian dishes throughout the day. The bar offers a relaxing setting for drinks and cocktails in the evening.
+Great place! by Michael B on September 9, 2014
+
+We stayed at Naladhu for one night in October 2013 and had a wonderful experience! The hotel is in a nice location just outside of the main part of town, about 20 minutes walk to the temple complex and 15 minutes to town center with lots of shops and restaurants along the way. I believe it's also about 15 minutes walk to other parts of town so it's convenient location wise as well. We arrived late evening after spending some time at one of Ayurveda resorts so we were tired but still enjoyed our stay at Naladhu! Our room was very clean and large with all amenities needed including sitting area/balcony which had nice seating area with seating looking out to garden below. We also enjoyed sitting outside on patio just off lobby just relaxing after long day walking around town! Staff were all very nice and helpful as well!! Would definitely recommend this hotel for your visit to Kerala!!

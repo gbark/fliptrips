@@ -1,22 +1,16 @@
 ---
-          title: Hotel Ocean Sunset
-          description: Hotel Ocean Sunset is a rustic hotel...
-          date: 2020-04-06
-          scheduled: 2020-04-06
-          tags:
-          - beach
-          - Hotel Ocean Sunset
-          - Hotel
-          layout: layouts/post.njk
-          image: "../../img/beach/pexels-anugrah-lohiya-723241.jpg"
-          ---
-          
-          ![Hotel Ocean Sunset](../../img/beach/pexels-anugrah-lohiya-723241.jpg)
-          
-          Hotel Ocean Sunset is a rustic hotel in a tropical garden with a spectacular view of the bay of Chalei. The hotel, located in the area of Kamala, has a small pool and offers free Wi-Fi and free daily yoga classes.
+title: Hotel Ocean Sunset
+description: Hotel Ocean Sunset is a stylish hotel...
+date: 2016-12-02
+scheduled: 2016-12-02
+tags:
+- beach
+- Hotel Ocean Sunset
+- Hotel
+layout: layouts/post.njk
+image: "../../img/beach/pexels-asad-photo-maldives-1591363(1).jpg"
+---
 
-A range of shops and restaurants can be found within walking distance.
+![Hotel Ocean Sunset](../../img/beach/pexels-asad-photo-maldives-1591363(1).jpg)
 
-Hotel Ocean Sunset has 9 spacious bungalows with private terraces and sea views. The bathroom comes with a shower, hot water and towels.
-
-Guests can relax in the lounge bar while enjoying the sea view over cocktails, beers or soft drinks. Guests are also offered an airport shuttle service for an extra charge.
+Hotel Ocean Sunset is a stylish hotel located just a few steps from the beach. The hotel offers a range of amenities including a stylish pool area and a fantastic restaurant. Free Wi-Fi access is available.

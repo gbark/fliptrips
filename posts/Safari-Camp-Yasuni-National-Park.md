@@ -1,22 +1,22 @@
 ---
-          title: Safari Camp Yasuni National Park
-          description: Safari Camp Yasuni National Park is a pristene safari camp...
-          date: 2019-07-31
-          scheduled: 2019-07-31
-          tags:
-          - jungle
-          - Safari Camp Yasuni National Park
-          - Safari Camp
-          layout: layouts/post.njk
-          image: "../../img/jungle/pexels-pierre-blaché-2901215.jpg"
-          ---
-          
-          ![Safari Camp Yasuni National Park](../../img/jungle/pexels-pierre-blaché-2901215.jpg)
-          
-          Safari Camp Yasuni National Park is a pristene safari camp located in the Yasuni National Park, a unique expanse of pristine rainforest bordering the Amazon River in the Ecuadorian Amazon.
+title: Safari Camp Yasuni National Park
+description: Safari Camp Yasuni National Park is a jawdropping safari camp...
+date: 2021-10-26
+scheduled: 2021-10-26
+tags:
+- jungle
+- Safari Camp Yasuni National Park
+- Safari Camp
+layout: layouts/post.njk
+image: "../../img/jungle/pexels-pixabay-514232.jpg"
+---
 
-The Yasuni National Park is one of the most biodiverse areas on Earth. It contains a hectare of rainforest for every person living in Ecuador and is home to a staggering amount of species, including jaguars, pink river dolphins, tapirs and more than 1,000 bird species.
+![Safari Camp Yasuni National Park](../../img/jungle/pexels-pixabay-514232.jpg)
 
-The camp itself is located within the park borders and only accessible by plane or boat. The camp itself is comprised of six adobe cabins set on stilts above the forest floor and offers guests stunning views from each cabin’s wraparound veranda. The Yasuni National Park also houses a research station run by the government’s Ministry of Environment as well as an indigenous village (Yanoama).
+Safari Camp Yasuni National Park is a jawdropping safari camp inside Yasuní National Park and home to a spa and a spectacular view over the river and the rainforest.
 
-The camp’s guides are all bilingual (English/Spanish) and offer guests an unparalleled experience into this lush rainforest environment – whether it be for fishing expeditions on the Amazon River, swimming with pink river dolphins or spotting wildlife at dawn and dusk – safari camp Yasuni National Park provides an authentic experience into such a unique corner of Ecuador.
+Yasuní National Park is home to some of the most unique species on the planet after it was declared a biosphere reserve in 1979. It’s also home to some of the most diverse ecosystems on Earth, such as flooded forests, marshes, savannahs and cloud forests.
+
+Yasuni National Park is one of the most biodiverse places on Earth, with 75% of flora and fauna found nowhere else in the world. The park also has one of Latin America’s largest populations of indigenous peoples who have lived in the area for several centuries. There are over 16 different ethnic groups represented throughout this vast expanse of wilderness.
+
+The park is also considered an important center for sustainable development by protecting both culture and nature. The park boasts an impressive array of mammals including tapir, jaguar, giant anteater, manatee, capybara, giant river otter, pacarana (a large rodent), three-toed sloth and armadillo among many others. As well as being an excellent place to see birds including macaws, toucans, hummingbirds and trogons you can also spot caiman lizards among other reptiles here.

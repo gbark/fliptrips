@@ -1,20 +1,20 @@
 ---
-          title: Palace Providence
-          description: Palace Providence is a stylish palace...
-          date: 2019-10-09
-          scheduled: 2019-10-09
-          tags:
-          - city
-          - Palace Providence
-          - Palace
-          layout: layouts/post.njk
-          image: "../../img/city/pexels-daniel-frank-323311.jpg"
-          ---
-          
-          ![Palace Providence](../../img/city/pexels-daniel-frank-323311.jpg)
-          
-          Palace Providence is a stylish palace of Byzantine architecture. The building is located along the Old River and has a view of the city's center and the river.
+title: Palace Providence
+description: Palace Providence is a jawdropping palace...
+date: 2016-04-09
+scheduled: 2016-04-09
+tags:
+- city
+- Palace Providence
+- Palace
+layout: layouts/post.njk
+image: "../../img/city/pexels-konstantinos-eleftheriadis-2034335.jpg"
+---
 
-The Uffizi Gallery occupies a large area on two floors of the building and is devoted to exhibitions of Italian and European art. The museum has its own entrance, so you do not need to go through the main palace ticket office.
+![Palace Providence](../../img/city/pexels-konstantinos-eleftheriadis-2034335.jpg)
 
-Palace Liberty is one of the most beautiful buildings in Florence. It was built as a barracks for Austrian soldiers, but since 1872 it houses an exhibition of contemporary art. Paintings by masters such as Picasso, Matisse, Gino Severini and others are presented here. The palace has several exhibition halls that can be visited separately or as part of a general ticket for all museums in Florence (museums on the same ticket: "Museo Nazionale del Bargello" and "Palazzo Pitti").
+Palace Providence is a jawdropping palace hotel that is located in the heart of the city. The place is home to a pool, a casino, a hot tub, and many other activities. It's also known for hosting many high-profile celebrities and performers.
+
+In addition to all of these things, it's also a great place to stay if you want to be close to the city center. You can easily walk or take a bus there from this hotel.
+
+Stay at this hotel if you want the best location, the best amenities, and a price that won't break your bank account. Book with Expedia now!

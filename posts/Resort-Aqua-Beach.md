@@ -1,22 +1,23 @@
 ---
-          title: Resort Aqua Beach
-          description: Resort Aqua Beach is a stylish resort...
-          date: 2019-01-13
-          scheduled: 2019-01-13
-          tags:
-          - beach
-          - Resort Aqua Beach
-          - Resort
-          layout: layouts/post.njk
-          image: "../../img/beach/pexels-asad-photo-maldives-240514.jpg"
-          ---
-          
-          ![Resort Aqua Beach](../../img/beach/pexels-asad-photo-maldives-240514.jpg)
-          
-          Resort Aqua Beach is a stylish resort located just a 15-minute drive from the city of Chiang Mai. It features a free shuttle service to and from the airport as well as free parking.
+title: Resort Aqua Beach
+description: Resort Aqua Beach is a jawdropping resort...
+date: 2021-10-12
+scheduled: 2021-10-12
+tags:
+- beach
+- Resort Aqua Beach
+- Resort
+layout: layouts/post.njk
+image: "../../img/beach/pexels-asad-photo-maldives-3155661(1).jpg"
+---
 
-The comfortable rooms at Resort Aqua Beach include modern décor and come with flat-screen TV, refrigerator and safety deposit box. They also have an en-suite bathroom, hot shower and hairdryer.
+![Resort Aqua Beach](../../img/beach/pexels-asad-photo-maldives-3155661(1).jpg)
 
-To start your day right, a buffet breakfast with Thai and Western food is served at the on-site restaurant. Guests can also enjoy authentic Thai dishes and snacks at the pool bar.
+Resort Aqua Beach is a jawdropping resort situated in the heart of Koh Rong mainland. The resort has 6 bungalows, all are individual and unique. You can stay in a luxury bungalow or in a traditional Cambodian house, depending on your style.
 
-Guests can make use of the Internet corner and business facilities, as well as hire bicycles for sightseeing purposes.
+The bungalows are built on stilts, in case of high tide it can be very cool. If you decide to stay in one of the wooden houses, the bathroom is located outside (only separated by a small wall).
+
+If you like to travel with your family or friends, every bungalow has its own terrace with sun loungers and hammocks. The resort has 3 swimming pools, 2 of them also used for swimming lessons for children. There is also an activity pool with water slides and pool games for adults and children alike.
+
+The restaurant serves local Cambodian dishes but also western food like pancakes or pasta. You can also ask for different kinds of cocktails at the bar located near the 3rd swimming pool. For all people who want to party till late there is a bar with large sofas & pillow beds with ambient music right next to the beach!
+

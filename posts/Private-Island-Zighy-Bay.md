@@ -1,22 +1,37 @@
 ---
-          title: Private Island Zighy Bay
-          description: Private Island Zighy Bay is a sun-soaked private island...
-          date: 2019-07-21
-          scheduled: 2019-07-21
-          tags:
-          - beach
-          - Private Island Zighy Bay
-          - Private Island
-          layout: layouts/post.njk
-          image: "../../img/beach/pexels-asad-photo-maldives-1591363(1).jpg"
-          ---
-          
-          ![Private Island Zighy Bay](../../img/beach/pexels-asad-photo-maldives-1591363(1).jpg)
-          
-          Private Island Zighy Bay is a sun-soaked private island resort, set on a tranquil bay in the heart of The United Arab Emirates.
+title: Private Island Zighy Bay
+description: Private Island Zighy Bay is a jawdropping private island...
+date: 2020-04-06
+scheduled: 2020-04-06
+tags:
+- beach
+- Private Island Zighy Bay
+- Private Island
+layout: layouts/post.njk
+image: "../../img/beach/pexels-maahid-photos-4366460.jpg"
+---
 
-In this idyllic setting, imagine the perfect tropical escape – white sand beaches, crystal clear waters and warm sunny days. On Island Zighy Bay, guests can find all three in abundance.
+![Private Island Zighy Bay](../../img/beach/pexels-maahid-photos-4366460.jpg)
 
-Guests can choose between accommodation options on the island or on the mainland, where selection includes villas and suites at the resort’s sister property, The St. Regis Dubai.
+Private Island Zighy Bay is a jawdropping private island in the desert, located in the United Arab Emirates.
 
-The St. Regis Dubai boasts an outdoor pool and tennis court with private beach access as well as private drivers for transportation to and from the airport during your stay at Island Zighy Bay. It is just a short drive away from the resort itself by boat or by car overland.
+5. The Floating Seahorse
+
+The Floating Seahorse is a futuristic hotel concept created by design firm M.A.D. It’s located in Dubai Marina and, according to the designers, is meant to look like “the mythical creature of the sea”.
+
+4. The Banya Hotel
+
+The Banya Hotel is a concept hotel which would stand on “Black Sea” water that was warmed by geothermal or solar energy, making it possible to swim even in the coldest winter temperatures. The hotel would be situated on a platform made out of ice and is designed for up to 50 guests.
+
+3. Dogleg Island Villa Amalfi Italy
+
+
+
+
+
+
+
+
+
+
+

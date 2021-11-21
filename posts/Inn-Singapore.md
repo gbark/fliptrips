@@ -1,24 +1,45 @@
 ---
-          title: Inn Singapore
-          description: Inn Singapore is a jawdropping inn...
-          date: 2019-03-31
-          scheduled: 2019-03-31
-          tags:
-          - city
-          - Inn Singapore
-          - Inn
-          layout: layouts/post.njk
-          image: "../../img/city/pexels-zachary-debottis-1838640.jpg"
-          ---
-          
-          ![Inn Singapore](../../img/city/pexels-zachary-debottis-1838640.jpg)
-          
-          Inn Singapore is a jawdropping inn that was designed by world-acclaimed architects. The inn is situated in the heart of Singapore City and within walking distance to the shopping center, dining area, business district, tourist area and the financial district. The inn provides free Wi-Fi in all areas. Admire the spectacular view of famous Marina Bay Sands SkyPark while enjoying your breakfast or an evening cocktail at the Sky Lounge Bar at Level 88. Guests can also catch up on work at their own private space which is available in each room equipped with free Wi-Fi access. Guests at this 5 star inn will find themselves right amongst it all!
+title: Inn Singapore
+description: Inn Singapore is a charming inn...
+date: 2021-09-26
+scheduled: 2021-09-26
+tags:
+- city
+- Inn Singapore
+- Inn
+layout: layouts/post.njk
+image: "../../img/city/pexels-aleksandar-pasaric-2067048.jpg"
+---
+
+![Inn Singapore](../../img/city/pexels-aleksandar-pasaric-2067048.jpg)
+
+Inn Singapore is a charming inn with a great location, a very friendly staff and comfortable rooms. This is a gem of a find in Singapore, and one of our favorite places to stay.
+
+Inn Singapore Details
+
+Inn Singapore is located at 30 Victoria Street, near the mouth of the Singapore River. The hotel has a great location with excellent access to transportation, shopping, dining and attractions. The hotel is also close to the financial district and the Raffles Place MRT station so you can easily get around town.
+
+The hotel offers free parking for guests arriving by car at the hotel’s lot or valet parking services for $25 per night (subject to availability). The hotel also has free WiFi access throughout the property.
+
+The inn has 40 well-appointed guest rooms that are all equipped with air conditioning, cable television, tea / coffee making facilities, an electronic safe and several other amenities including hair dryers and showers with bathtubs. There are non-smoking rooms available as well as rooms with connecting doors for families traveling together (enquire when booking). Some of the rooms have balconies but if not there are shared balconies on each floor overlooking Victoria Street that guests may use freely. The shared balconies are perfect for enjoying an evening cocktail or playing cards with friends! Check out these photos of some of Inn Singapore’s rooms:
 
 
 
-The 44 luxurious rooms are beautifully appointed with warm colors and comfortable plush bedding. All rooms are fully equipped with Electrical Kettle, Bathrobe & Slippers, Bathroom Amenities, Hair Dryer, LCD TV with multi channels, Tea & Coffee Making facilities and more.
 
 
 
-Guest can take a tour around this stunning city from here as it offers a great location to explore many attractions such as Gardens by the Bay Plaza, Singapore Flyer observation wheel and much more! In addition to that you can also visit other entertaining venues such as Universal Studios Singapore where you can enjoy a wide range of rides and attractions especially for children.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

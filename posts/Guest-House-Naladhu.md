@@ -1,22 +1,20 @@
 ---
-          title: Guest House Naladhu
-          description: Guest House Naladhu is a romantic guest house...
-          date: 2018-01-28
-          scheduled: 2018-01-28
-          tags:
-          - beach
-          - Guest House Naladhu
-          - Guest House
-          layout: layouts/post.njk
-          image: "../../img/beach/pexels-arthouse-studio-4571791.jpg"
-          ---
-          
-          ![Guest House Naladhu](../../img/beach/pexels-arthouse-studio-4571791.jpg)
-          
-          Guest House Naladhu is a romantic guest house in the heart of Colombo.
+title: Guest House Naladhu
+description: Guest House Naladhu is a charming guest house...
+date: 2021-05-27
+scheduled: 2021-05-27
+tags:
+- beach
+- Guest House Naladhu
+- Guest House
+layout: layouts/post.njk
+image: "../../img/beach/pexels-anfisa-eremina-3887909.jpg"
+---
 
-It is located in a quiet, safe and green area in the city, with easy access to facilities such as banks, restaurants, bars and supermarkets.
+![Guest House Naladhu](../../img/beach/pexels-anfisa-eremina-3887909.jpg)
 
-The guest house is fitted with all modern amenities like air-conditioning, hot water and free Wi-Fi access.
+Guest House Naladhu is a charming guest house located in a quiet street in the Colombo 7 suburb of Wellawatte. The guest house is an oasis of tranquility and comfort and provides the perfect setting for a comfortable and relaxing holiday.
 
-It is ideal for stays for couples or families looking for a romantic getaway within the city limits.
+A wide range of rooms are available including deluxe, super deluxe and penthouse suites. All rooms feature air conditioning, cable television, ceiling fans and private bathrooms with hot and cold running water.
+
+The facilities at the guest house include a multi-cuisine restaurant, a bar, tea lounge and book corner where guests can relax with a book or newspaper after a long day exploring the city.

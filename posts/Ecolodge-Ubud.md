@@ -1,22 +1,24 @@
 ---
-          title: Ecolodge Ubud
-          description: Ecolodge Ubud is a breathtaking ecolodge...
-          date: 2018-08-21
-          scheduled: 2018-08-21
-          tags:
-          - jungle
-          - Ecolodge Ubud
-          - Ecolodge
-          layout: layouts/post.njk
-          image: "../../img/jungle/pexels-greg-galas-3647545.jpg"
-          ---
-          
-          ![Ecolodge Ubud](../../img/jungle/pexels-greg-galas-3647545.jpg)
-          
-          Ecolodge Ubud is a breathtaking ecolodge nestled in the tropical foothills of the Annapurna range in Bali, Indonesia. It is an ideal place to unwind, relax and enjoy the natural beauty that surrounds it.
+title: Ecolodge Ubud
+description: Ecolodge Ubud is a jawdropping ecolodge...
+date: 2021-06-02
+scheduled: 2021-06-02
+tags:
+- jungle
+- Ecolodge Ubud
+- Ecolodge
+layout: layouts/post.njk
+image: "../../img/jungle/pexels-pierre-blaché-2901215.jpg"
+---
 
-Nestled on a beautiful 2.5 acre property, our ecolodge features four serene swimming pools (one of which is only for adults), lush tropical gardens, an open-air dining room with stunning views of the Balinese countryside, and a colonial-style library with ceiling fans and rattan furniture.
+![Ecolodge Ubud](../../img/jungle/pexels-pierre-blaché-2901215.jpg)
 
-This eco-friendly resort is popular with couples looking to spend their honeymoon in Ubud or honeymooners looking for a romantic getaway.
+Ecolodge Ubud is a jawdropping ecolodge in Ubud. Nestled in the jungle, this place is like paradise on earth. It is the perfect place for a honeymoon or a getaway with friends and family. The atmosphere is very serene and relaxing. While staying here, you will enjoy stargazing, bird watching and swimming in the pool. There are lots of activities to do here like yoga and meditation classes and cooking classes!
 
-Let us help you plan your Bali vacation today by calling us at 800-494-8687.
+The room we stayed in was very nice and comfortable. The beds were big with soft pillows and sheets! I really liked that there was a ceiling fan in the rooms to cool us off when it gets hot outside. You can see that they put a lot of effort into decorating each room to fit its theme. They have different types of rooms with different themes ranging from romance, yoga, wellness, etc.
+
+They have a restaurant on-site called Damai Restaurant where you can enjoy fresh organic food for breakfast, lunch or dinner! I enjoyed their fresh juices so much!
+
+We had dinner at their romantic restaurant called Antique Terrace Restaurant where they serve delicious food over looking the rice fields! This place is amazing at night when you look out over the rice fields while having dinner under their umbrellas near lanterns lit up by candles! We took lots of pictures here that night because the view was so pretty! You must try their signature dish called Lapis Legit which are steamed shrimp with steamed rice wrapped in banana leaf with coconut sauce & spices! It’s super delicious!! They also make great smoothies here if you want something healthier instead of dessert.
+
+This place has free wifi near the reception area which makes it easy to communicate with your family back home or upload photos on Instagram/Facebook right away without needing any data pack since it’s faster than 3g/4g connection most times! Wifi is very important when planning your next vacation because sometimes things don’t go as planned while traveling but having wifi helps you stay connected with your loved ones back home even if you’re half way around the world while still enjoying your trip at its fullest!! We stayed here for one night but would love to come back again soon for longer stay next time!! Highly recommend this hotel if you ever visit Ubud!!

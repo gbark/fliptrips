@@ -1,19 +1,24 @@
 ---
+title: Inn Castille
+description: Inn Castille is a historical inn...
+date: 2019-10-28
+scheduled: 2019-10-28
+tags:
+- city
+- Inn Castille
+- Inn
+layout: layouts/post.njk
+image: "../../img/city/pexels-zachary-debottis-1838640.jpg"
+---
 
-          title: Inn Castille
-          description: Inn Castille is a breathtaking inn...
-          date: 2018-12-14
-          scheduled: 2018-12-14
-          tags:
-          - city
-          - Inn Castille
-          - Inn
-          layout: layouts/post.njk
-          image: "../../img/city/pexels-kai-pilger-591383.jpg"
-          ---
+![Inn Castille](../../img/city/pexels-zachary-debottis-1838640.jpg)
 
-          ![Inn Castille](../../img/city/pexels-kai-pilger-591383.jpg)
+Inn Castille is a historical inn built in 1917 atop a hill overlooking the town of Salida.
 
-          Inn Castille is a breathtaking inn on a hilltop on a quiet, safe street. The inn is just steps away from the main entrance to the city's historic district and within walking distance of many restaurants. It's also close to the convention center and the area where street musicians perform.
+Inn at the Delta is a collection of 60 housing units in the heart of the Arkansas River Valley, constructed in 1994.
 
-The inn has three levels - an outdoor terrace, lobby area, and restaurant. There are plenty of tables to sit at in the downstairs restaurant. We chose to eat breakfast downstairs for two mornings, so we could eat outdoors both times. This was one of our favorite parts of the stay. The views were spectacular! Breakfast was good enough to keep us coming back for more each day.
+Inn at Lost Creek is a collection of 23 housing units built in 1992.
+
+Inn at Maroon Creek is a collection of 28 housing units built in 1993.
+
+Inn at Mount Princeton is a collection of 25 housing units built in 1991.

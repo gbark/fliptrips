@@ -1,22 +1,16 @@
 ---
-          title: Hotel & Spa Gritti Palace
-          description: Hotel & Spa Gritti Palace is a gastronomical hotel & spa...
-          date: 2017-12-25
-          scheduled: 2017-12-25
-          tags:
-          - city
-          - Hotel & Spa Gritti Palace
-          - Hotel & Spa
-          layout: layouts/post.njk
-          image: "../../img/city/pexels-aleksandar-pasaric-3048538.jpg"
-          ---
-          
-          ![Hotel & Spa Gritti Palace](../../img/city/pexels-aleksandar-pasaric-3048538.jpg)
-          
-          Hotel & Spa Gritti Palace is a gastronomical hotel & spa in the heart of Venice and in front of the Grand Canal.
+title: Hotel & Spa Gritti Palace
+description: Hotel & Spa Gritti Palace is a romantic hotel & spa...
+date: 2016-06-04
+scheduled: 2016-06-04
+tags:
+- city
+- Hotel & Spa Gritti Palace
+- Hotel & Spa
+layout: layouts/post.njk
+image: "../../img/city/pexels-jonathan-petersson-528427.jpg"
+---
 
-Hotel Gritti Palace is in the historic centre of Venice and overlooks the Grand Canal. The hotel is within walking distance from Saint Mark's Square, Rialto Bridge and the most important events in Venice such as the film festival (Mostra del cinema di Venezia), Biennale (Biennale dell'Arte) and Carnival (Carnevale di Venezia). Hotel Gritti Palace is also within walking distance from Piazza San Marco, Saint Mark's Basilica, Doge's Palace and Peggy Guggenheim Collection.
+![Hotel & Spa Gritti Palace](../../img/city/pexels-jonathan-petersson-528427.jpg)
 
-The hotel offers guests a unique experience: for its interior design, which combines Venetian style with modern art; for its restaurants; for its wine cellar; and for its spa area with an indoor swimming pool and gym. The spa area also offers a wide range of beauty treatments such as Ayurvedic massages, massage with essential oils or body scrubs.
-
-The hotel has been renovated by designer Piero Lissoni between 2014-2016. The rooms reflect the essence of Venice through their design which combines classic furniture inspired by Venetian tradition with contemporary elements such as Murano chandeliers and Lucite chairs by Gio Ponti. Each room has a different colour theme: "Bianco Perla", "Blu", "Azzurra", "Tricolore" e "Rosso".
+Hotel & Spa Gritti Palace is a romantic hotel & spa tucked away in the heart of Venice, overlooking the Grand Canal. We offer our guests a range of luxury accommodation and suites, a selection of spa treatments and a Michelin-starred restaurant. The hotel is housed in a building originally built in 1340 and has been home to some of Venice’s most famous residents, including Napoleon Bonaparte. Rewarding your senses with its stunning interiors, elegant furniture and full-height windows overlooking the Grand Canal, Hotel & Spa Gritti Palace will charm you from the moment you arrive. Guests are welcomed into an elegant entrance hall before being ushered into one of our luxurious suites. The offerings at Gritti Palace include the finest Italian handmade beds - made exclusively for us at "Cappello" - soft fabrics from Frette linen, custom-made Murano glass lighting, Murano glass chandeliers by Venini and furniture by Mazzega. Our rooms have been individually designed to reflect their unique location within this historic palace ensuring views are breathtaking no matter which room you choose. Our spacious bathrooms are all fitted with LVM Nove’ fixtures including freestanding baths, dual head shower cubicles with massage jets, freestanding basins with polished stone tops and heated towel rails. Our suites feature private terraces or balconies offering views across Venice’s Grand Canal or over the rooftops of the city to St Mark's Basilica or Giudecca Island. Our guest rooms also boast state-of-the-art entertainment facilities including 42" LCD TVs with Blu-ray players and iPod docking stations which can be controlled by an iPad app available for download free of charge on your mobile device. The hotel’s charming restaurant is run by international luxury chef Daniel Humm who heads up his own team of culinary experts in order to create menus inspired by Venetian cuisine using only seasonal produce sourced locally when possible although ingredients imported from around the world are often used when necessary for preservation purposes or due to tradition or demand in particular areas such as seafood or game meat. Dining in Venice is an experience like no other; dining in Hotel & Spa Gritti Palace is no exception!

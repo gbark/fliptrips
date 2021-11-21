@@ -67,7 +67,7 @@
         </div>
         <div id="reading-progress" aria-hidden="true"></div>
       </nav>
-      <h1>{{ title }}</h1>
+      <h1 class="title">{{ title }}</h1>
       {% block extraArticleHeader %}{% endblock %}
       <dialog id="message"></dialog>
       {% if googleanalytics %}
@@ -91,8 +91,7 @@
     </main>
 
     <footer>
-      <a href="/about/">About me</a>-
-      <a href="/terms/">Terms</a>
+      <a href="/about/">About</a>
     </footer>
 
     <!-- Current page: {{ page.url | url }} -->
