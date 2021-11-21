@@ -42,7 +42,7 @@ function selectRandomFileFromDirectory(directory) {
     return selectRandom(fs.readdirSync(directory));
 }
 
-const startDate = new Date(2021, 5, 1);
+const startDate = new Date(2021, 9, 1);
 const endDate = new Date();
 const daysBetweenStartAndEnd = differenceInDays(endDate, startDate);
 // const datesFromStartToEnd = [...daysBetweenStartAndEnd].map()

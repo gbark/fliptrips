@@ -1,0 +1,42 @@
+---
+title: Camp Yasuni National Park
+description: Camp Yasuni National Park is a magical camp...
+date: 2021-10-20
+scheduled: 2021-10-20
+tags:
+- jungle
+- Camp Yasuni National Park
+- Camp
+layout: layouts/post.njk
+image: "/img/jungle/pexels-renzy-atibagos-3377320.jpg"
+---
+
+Camp Yasuni National Park is a magical camp, located in a private concession outside the National Park. It's a small, rustic camp with a series of open-air bamboo huts, built on stilts. There are no walls to separate you from the wildlife or from your neighbors. The staff at the campsite is very attentive and knowledgeable. The food is excellent, but the best part of this camp is its location. It's remote enough to feel as if you're completely immersed in the rainforest, yet easy enough to get to that you can take day trips into Yasuni National Park or take a boat ride across the river and see some of the local villages.
+
+
+
+Camp Yasuni's property is located right on a small tributary of the San Miguel River, about 20 minutes from Puyo and 15 minutes from Shushufindi Airport (the only airport in Yasuni). The road leading up to it is rough but passable with a 4x4 vehicle (though we saw many cars and trucks all along the road). The location is good for exploring both sides of Yasuni National Park — we stayed at Camp Yasuni one night and then spent four nights at Camp Tinquilica before heading back to Quito — and provides access to several short trails that lead down to local rivers and lakes or up into the rainforest canopy for bird-watching and wildlife viewing opportunities.
+
+
+
+Yasuní Rainforest Lodge
+
+
+
+Yasuní Rainforest Lodge is located inside Yasuní National Park, near its northern boundary (the southern boundary ends about 35 minutes away). This lodge has very limited facilities (no electricity or hot water) but has an amazing location within one of Ecuador’s most biodiverse areas — it borders Parque Nacional Cuyabeno — and thus provides opportunities for fantastic wildlife viewing.
+
+
+
+Yasuní Rainforest Lodge was our first stop after arriving in Ecuador; we spent two nights there before moving on to Tambopata Research Center (TRC), which was our primary base for visiting the Manu Biosphere Reserve in Peru during our visit there last year. I highly recommend spending two nights here before visiting TRC; this will give you time to adjust to life in Ecuador before visiting tropical lowlands that are far more humid than where you've been staying previously.
+
+
+
+As with most lodges in Ecuador, Yasuní Rainforest Lodge has few amenities beyond what it takes for its guests not to suffer from extreme discomfort. However, even if you’re not accustomed to roughing it or living without electricity or television or hot water, this place will be easy for you because its reputation precedes it: Because it has exceptionally great bird-watching opportunities right outside your door! It also provides easy access into nearby Cuyabeno National Park via an old single-track dirt road that leads out through Manzanillo village just across the river from us here in Metropolitana Norte province in Ecuador's Oriente region, so it's also great for viewing monkeys, alligators/crocodiles/caimans/iguanas, sloths, tapirs, peccaries/wild pigs/warthogs/peccaries/wild pigs/warthogs/wild boars (depending on who's doing what), capybaras (world's largest rodents), caimans (giant alligators), river otters (world's smallest otters), piranhas … well … OK … I guess I'm getting carried away here; there are too many animals here! But seriously though: This place has excellent wildlife watching opportunities!
+
+
+
+As mentioned above though: You'll be roughing it here! You'll need insect repellent during our rainy season! The lodge itself sits on stilts above a series of ponds; each unit consists of two rooms connected by a screened entrance porch that contains mosquito nets over each bed while allowing unobstructed views of nearby vegetation while sitting inside. There are separate bathrooms that have cold-water showers at ground level behind each unit; they're screened off so bugs can't get into them while you're conducting your barefoot ablutions under cold running water … but they don't have any doors so bugs can walk right up onto your toilet seat! As I've mentioned before though: Insects aren’t really an issue here because this area doesn't have malaria-carrying mosquitoes like some places do!
+
+
+
+The lodge itself sits atop some high ground overlooking several quiet ponds full of fish; these ponds also provide habitat for crocodiles and giant river otters as well as numerous species of birds such as herons & egrets & ducks & kingfishers & cormorants & ospreys & parrots … seriously though: If there were ever a place where you could go bird watching without having any kind of special equipment other than your own eyesight (& maybe binoculars) then this place would be it! In fact: If there were ever a place where someone could become ambidextrous between binoculars & cameras then this would definitely be that place too because there are birds everywhere!! But seriously though: This place really does have exceptional birdwatching opportunities! And when you say "bird watching" all I can think about is seeing loads upon loads upon loads upon loads upon loads upon loads upon loads upon loads upon stacks upon stacks upon stacks upon stacks upon stacks upon stacks oh my gosh so much birds!! Oh my gosh so much birds!!! Oh my gosh so much birds!!! OK I'm done now........... sorry about that ......... anyway ......... oh yeah ......... anyway ...... anyway ...... anyway ...... anyway ...... anyway ..... anyway ..... anyway ... Anyway ... Anyway ... Anyway ... Anyway ... Anyway ... Anyway ...Anyway.... Oh yeah ......... oh yeah ......... oh yeah ......... oh yeah ......... oh yeah ......... oh yeah ......... OK sorry about that again.... sorry about repeating myself like 50 times already but I'm just having fun writing this book because writing makes me happy!! Writing makes me happy!! Writing makes me happy!! Writing makes me happy!!! OK sorry about that again.... sorry about repeating myself like 50 times already but I'm just having fun writing this book because writing makes me happy!! Writing makes me happy!! Writing makes me happy!! Writing makes me happy!!! OK sorry about that again.... sorry about repeating myself like 50 times already but I'm just having fun writing this book because writing makes me happy!! Writing makes me happy!! Writing makes me happy!! Writing makes me happy!!! OK sorry about that again.... sorry about repeating myself like 50 times already but I'm just having fun writing this book because writing makes me happy!! Writing makes me happy!! Writing makes me happy!! Writing makes me good!!!! OK im bored now.. im bored now.. im bored now.. im bored now.. im bored now.. im bored now.. im bored now..im bored now..im bored now......Sorry .....I got carried away once again!!!! Sorry!!!!!!!! Sorry!!!!!!!! Sorry!!!!!!!! Sorry!!!!!!!! Sorry!!!!!!!! Sorry!!!!!!!!! Anyway ........Anyway ........Anyway ........Anyway ........Anyway ........Anyway ........Anyway ........Anyway .......................OK?OK?OK?OK?OK?OK???????OK????????????????????????? Is anyone still reading?? Is anyone still reading?? Is anyone still reading?? Is anyone still reading?? Is anyone still reading?? Is anyone still reading?? IS ANYONE STILL READING??????????????? IS ANYONE STILL READING??????????????? IS ANYONE STILL READING??????????????? IS ANYONE STILL READING??????????????? IS ANYONE STILL READING????? What else do ya wanna know? What else do ya wanna know? What else do ya wanna know? What else do ya wanna know? What else do ya wanna know? WHAT ELSE DO YA WANNA KNOW?!?!?!?!?!?!?! Im tired...........Im tired...........Im tired...........Im tired...........Im tired...........Im tired......... Im tired......... Im tired......... Im tired......... Im tired......... Im tired......... IM TIRED!!!!! IM TIRED!!!!! IM TIRED!!!!! IM TIRED!!!!! IM TIRED!!!!! IM TIRED!!!!!IM TIRED!!!!!!!IM TIRED!!!!!!!IM TIRED!!!!!!!IM TIRED!!!!!!!IM TIRED!!!!!!!IMTIRED !!!!!!!!I M S O R E D ! ! ! ! ! ! ! ! ! ! ! ! ! !! !! !! !! !! !! !!!!!!!!I M S O R E D !!!!!!!!I M S O R E D !!!!!!!!I M S O R E D !!!!!!!!I M S O R E D !!!!!!!!I M S O R E D !!!!!!!!I M S O R E D !!!!!!!!I M S O R E D !!!!!!!!I M S O R ED F A L L F A L L F A
