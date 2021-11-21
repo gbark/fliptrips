@@ -17,5 +17,4 @@ Safari Camp Grosso is a rustic safari camp consisting of 12 tents and 2 suites. 
 
 Safari Camp Grosso is highly recommended as a good experience for those who want to move away from the more common "high end" safari camps, but don't want to compromise on the quality of service offered.
 
-Facilities at Safari Camp Grosso include:
 
