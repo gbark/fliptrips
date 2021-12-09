@@ -4,7 +4,7 @@
   "domain": "heyletsgo.casa",
   "description": "A travel blog",
   "genre": "TouristTrip",
-  "googleAnalyticsId": "",
+  "googleAnalyticsId": "UA-213438928-1",
   "sendWebVitals": false,
   "feed": {
     "subtitle": "A travel blog",

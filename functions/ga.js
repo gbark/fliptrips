@@ -114,9 +114,7 @@ exports.handler = function (event, context, callback) {
 
 /*
  Docs on GA endpoint and example params
-
  https://developers.google.com/analytics/devguides/collection/protocol/v1/devguide
-
 v: 1
 _v: j67
 a: 751874410

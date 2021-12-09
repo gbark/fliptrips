@@ -54,7 +54,7 @@ const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const localImages = require("./third_party/eleventy-plugin-local-images/.eleventy.js");
 const CleanCSS = require("clean-css");
-// const GA_ID = require("./_data/metadata.json").googleAnalyticsId;
+const GA_ID = require("./_data/metadata.json").googleAnalyticsId;
 const { cspDevMiddleware } = require("./_11ty/apply-csp.js");
 
 module.exports = function (eleventyConfig) {
@@ -171,7 +171,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
   // We need to copy cached.js only if GA is used
-  // eleventyConfig.addPassthroughCopy(GA_ID ? "js" : "js/*[!cached].*");
+  eleventyConfig.addPassthroughCopy(GA_ID ? "js" : "js/*[!cached].*");
   eleventyConfig.addPassthroughCopy("fonts");
 
   // We need to rebuild upon JS change to update the CSP.
