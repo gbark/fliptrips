@@ -1,19 +1,19 @@
 ---
-title: Hotel & Spa Virgin Gorda
-description: Hotel & Spa Virgin Gorda is a gorgeous hotel & spa...
+title: Hotel and Spa Virgin Gorda
+description: Hotel and Spa Virgin Gorda is a gorgeous Hotel and Spa...
 date: 2020-10-23
 scheduled: 2020-10-23
 tags:
 - beach
-- Hotel & Spa Virgin Gorda
-- Hotel & Spa
+- Hotel and Spa Virgin Gorda
+- Hotel and Spa
 layout: layouts/post.njk
 image: "../../img/beach/pexels-asad-photo-maldives-1266833.jpg"
 ---
 
-![Hotel & Spa Virgin Gorda](../../img/beach/pexels-asad-photo-maldives-1266833.jpg)
+![Hotel and Spa Virgin Gorda](../../img/beach/pexels-asad-photo-maldives-1266833.jpg)
 
-Hotel & Spa Virgin Gorda is a gorgeous hotel & spa, high up on a hillside overlooking the Caribbean Sea. As I’ve written about before, this hotel is a tranquil oasis peeks out from the lush foliage of Virgin Gorda. It is a little jewel of a resort that has been designed with an eco-friendly touch, as it focuses on sustainable practices and green initiatives.
+Hotel and Spa Virgin Gorda is a gorgeous Hotel and Spa, high up on a hillside overlooking the Caribbean Sea. As I’ve written about before, this hotel is a tranquil oasis peeks out from the lush foliage of Virgin Gorda. It is a little jewel of a resort that has been designed with an eco-friendly touch, as it focuses on sustainable practices and green initiatives.
 
 The rooms are very comfortable at this resort, as they have been modernized with the necessary features to make your stay as relaxing as possible. The bathroom is well-equipped and spacious and I especially liked the fact that each room has its own private balcony.
 
