@@ -878,7 +878,8 @@ header {
   background: url("/img/header.jpg");
   background-color: #86aeb5;
   background-blend-mode: soft-light;
-  background-position-y: center;
+  background-size: cover;
+  background-position: center;
 }
 header h1.title {
   text-decoration-skip: ink;
