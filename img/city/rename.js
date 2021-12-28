@@ -1,1 +1,0 @@
-// rename all images in the current folder

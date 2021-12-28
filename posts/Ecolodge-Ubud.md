@@ -8,10 +8,10 @@ tags:
 - Ecolodge Ubud
 - Ecolodge
 layout: layouts/post.njk
-image: "../../img/jungle/pexels-pierre-blaché-2901215.jpg"
+image: "../../img/jungle/pexels-pierre-blache-2901215.jpg"
 ---
 
-![Ecolodge Ubud](../../img/jungle/pexels-pierre-blaché-2901215.jpg)
+![Ecolodge Ubud](../../img/jungle/pexels-pierre-blache-2901215.jpg)
 
 Ecolodge Ubud is a jawdropping ecolodge in Ubud. Nestled in the jungle, this place is like paradise on earth. It is the perfect place for a honeymoon or a getaway with friends and family. The atmosphere is very serene and relaxing. While staying here, you will enjoy stargazing, bird watching and swimming in the pool. There are lots of activities to do here like yoga and meditation classes and cooking classes!
 
