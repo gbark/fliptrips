@@ -45,9 +45,9 @@
 /tags/plains/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/index.html
+/tags/camp-madikew-game-reserve/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/
+/tags/camp-madikew-game-reserve/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /page-list/1/index.html
@@ -55,44 +55,9 @@
 /page-list/1/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/camp-naladhu/index.html
+/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/camp-naladhu/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Lodge-Puerto-Maldonado/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Lodge-Puerto-Maldonado/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Suites-Gritti-Palace/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Suites-Gritti-Palace/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Inn-Victoria/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Inn-Victoria/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Lodge-Yasuni-National-Park/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Lodge-Yasuni-National-Park/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Ecolodge-Ubud/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Ecolodge-Ubud/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Ranch-Yasuni-National-Park/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Ranch-Yasuni-National-Park/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/page-list/2/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/page-list/2/
+/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/camp/index.html
@@ -100,34 +65,19 @@
 /tags/camp/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Camp-Madikew-Game-Reserve/index.html
+/page-list/2/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Camp-Madikew-Game-Reserve/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Ecolodge-Madikew-Game-Reserve/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Ecolodge-Madikew-Game-Reserve/
+/page-list/2/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Château-Castille/index.html
+/tags/camp-naladhu/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Château-Castille/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Inn-Sabi-Sands/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Inn-Sabi-Sands/
+/tags/camp-naladhu/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Suites-St-Paul's/index.html
+/page-list/3/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Suites-St-Paul's/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Inn-Mashpi/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Inn-Mashpi/
+/page-list/3/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /posts/Lodge-Mashpi/index.html
@@ -140,9 +90,9 @@
 /posts/Inn-Naladhu/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Palace-Bristol/index.html
+/posts/Inn-Mashpi/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Palace-Bristol/
+/posts/Inn-Mashpi/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /posts/Hotel-Zighy-Bay/index.html
@@ -150,9 +100,19 @@
 /posts/Hotel-Zighy-Bay/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
+/posts/Resort-White-Pebble/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Resort-White-Pebble/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
 /posts/Guest-House-St.-Barts/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /posts/Guest-House-St.-Barts/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Hotel-&-Spa-Zighy-Bay/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Hotel-&-Spa-Zighy-Bay/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /posts/Lodge-Naladhu/index.html
@@ -160,39 +120,19 @@
 /posts/Lodge-Naladhu/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Hotel-&-Spa-Virgin-Gorda/index.html
+/posts/Camp-Rift-Valley/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Hotel-&-Spa-Virgin-Gorda/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Suites-Sunset-Dream/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Suites-Sunset-Dream/
+/posts/Camp-Rift-Valley/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Private-Island-Sunset-Dream/index.html
+/posts/Ecolodge-Naladhu/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Private-Island-Sunset-Dream/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Resort-White-Pebble/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Resort-White-Pebble/
+/posts/Ecolodge-Naladhu/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Resort-Sunset-Dream/index.html
+/posts/Lodge-Ocean-Sunset/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Resort-Sunset-Dream/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Château-St-Paul's/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Château-St-Paul's/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Hotel-&-Spa-Zighy-Bay/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Hotel-&-Spa-Zighy-Bay/
+/posts/Lodge-Ocean-Sunset/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /posts/Hotel-Ocean-View/index.html
@@ -205,114 +145,9 @@
 /posts/Suites-St.-Barts/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Camp-Sabi-Sands/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Camp-Sabi-Sands/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Inn-Paracas/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Inn-Paracas/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Ranch-Madikew-Game-Reserve/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Ranch-Madikew-Game-Reserve/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Inn-di-Carpiano/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Inn-di-Carpiano/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Hotel-&-Spa-di-Positano/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Hotel-&-Spa-di-Positano/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Palace-Cipriani/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Palace-Cipriani/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Inn-Gritti-Palace/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Inn-Gritti-Palace/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Hotel-Gritti-Palace/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Hotel-Gritti-Palace/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Hotel-Shoreditch/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Hotel-Shoreditch/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Ecolodge-Osa-Peninsula/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Ecolodge-Osa-Peninsula/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Camp-Puerto-Maldonado/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Camp-Puerto-Maldonado/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Ecolodge-Pacuare/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Ecolodge-Pacuare/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Safari-Camp-Grosso/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Safari-Camp-Grosso/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Lodge-Chiang-Mai/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Lodge-Chiang-Mai/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Safari-Camp-Chiang-Mai/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Safari-Camp-Chiang-Mai/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Safari-Camp-Pacuare/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Safari-Camp-Pacuare/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Safari-Camp-Ubud/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Safari-Camp-Ubud/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Guest-House-Sandy-Dunes/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Guest-House-Sandy-Dunes/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Château-Shoreditch/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Château-Shoreditch/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Château-Cipriani/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Château-Cipriani/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
 /posts/Hotel-&-Spa-Paradise-Beach/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /posts/Hotel-&-Spa-Paradise-Beach/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Palace-Castille/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Palace-Castille/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /posts/Resort-Aqua-Beach/index.html
@@ -325,6 +160,161 @@
 /posts/Guest-House-Naladhu/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
+/posts/Château-St-Paul's/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Château-St-Paul's/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Hotel-&-Spa-St-Paul's/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Hotel-&-Spa-St-Paul's/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Inn-di-Carpiano/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Inn-di-Carpiano/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Hotel-&-Spa-di-Positano/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Hotel-&-Spa-di-Positano/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Ecolodge-Madikew-Game-Reserve/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Ecolodge-Madikew-Game-Reserve/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Inn-Sabi-Sands/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Inn-Sabi-Sands/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Camp-Madikew-Game-Reserve/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Camp-Madikew-Game-Reserve/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Palace-Cipriani/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Palace-Cipriani/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Hotel-Gritti-Palace/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Hotel-Gritti-Palace/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Hotel-&-Spa-Virgin-Gorda/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Hotel-&-Spa-Virgin-Gorda/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Camp-Yasuni-National-Park/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Camp-Yasuni-National-Park/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Château-Castille/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Château-Castille/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Suites-St-Paul's/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Suites-St-Paul's/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Suites-Sunset-Dream/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Suites-Sunset-Dream/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Hotel-Shoreditch/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Hotel-Shoreditch/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Inn-Gritti-Palace/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Inn-Gritti-Palace/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Suites-di-Positano/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Suites-di-Positano/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Hotel-&-Spa-Gritti-Palace/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Hotel-&-Spa-Gritti-Palace/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Palace-Sant'Andrea/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Palace-Sant'Andrea/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Guest-House-Aqua-Beach/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Guest-House-Aqua-Beach/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Palace-Bristol/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Palace-Bristol/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Hotel-&-Spa-Kensington/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Hotel-&-Spa-Kensington/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Ecolodge-Yasuni-National-Park/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Ecolodge-Yasuni-National-Park/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Guest-House-Sandy-Dunes/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Guest-House-Sandy-Dunes/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Ecolodge-Osa-Peninsula/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Ecolodge-Osa-Peninsula/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Camp-Puerto-Maldonado/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Camp-Puerto-Maldonado/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Hotel-di-Positano/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Hotel-di-Positano/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Hotel-Paradise-Beach/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Hotel-Paradise-Beach/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Palace-Providence/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Palace-Providence/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Ranch-Ubud/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Ranch-Ubud/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Ranch-Grosso/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Ranch-Grosso/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
 /posts/Hotel-&-Spa-Sandy-Dunes/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /posts/Hotel-&-Spa-Sandy-Dunes/
@@ -335,89 +325,29 @@
 /posts/Hotel-St.-Barts/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Hotel-Paradise-Beach/index.html
+/posts/Private-Island-Sunset-Dream/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Hotel-Paradise-Beach/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Lodge-Ocean-Sunset/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Lodge-Ocean-Sunset/
+/posts/Private-Island-Sunset-Dream/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Hotel-&-Spa-St-Paul's/index.html
+/posts/Camp-Sabi-Sands/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Hotel-&-Spa-St-Paul's/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Ecolodge-Naladhu/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Ecolodge-Naladhu/
+/posts/Camp-Sabi-Sands/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Ecolodge-Yasuni-National-Park/index.html
+/posts/Ranch-Madikew-Game-Reserve/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Ecolodge-Yasuni-National-Park/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Ranch-Grosso/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Ranch-Grosso/
+/posts/Ranch-Madikew-Game-Reserve/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Ranch-Ubud/index.html
+/posts/Inn-Paracas/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Ranch-Ubud/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Palace-Sant'Andrea/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Palace-Sant'Andrea/
+/posts/Inn-Paracas/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Hotel-&-Spa-Gritti-Palace/index.html
+/posts/Resort-Sunset-Dream/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Hotel-&-Spa-Gritti-Palace/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Suites-di-Positano/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Suites-di-Positano/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Palace-Providence/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Palace-Providence/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Ecolodge-San-Ignacio/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Ecolodge-San-Ignacio/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Ranch-Pacuare/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Ranch-Pacuare/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Safari-Camp-Puerto-Maldonado/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Safari-Camp-Puerto-Maldonado/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Hotel-Cipriani/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Hotel-Cipriani/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Château-Kensington/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Château-Kensington/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Suites-Providence/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Suites-Providence/
+/posts/Resort-Sunset-Dream/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /posts/Suites-Sant'Andrea/index.html
@@ -425,14 +355,59 @@
 /posts/Suites-Sant'Andrea/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
+/posts/Château-Kensington/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Château-Kensington/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Hotel-Cipriani/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Hotel-Cipriani/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
 /posts/Inn-Kensington/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /posts/Inn-Kensington/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Hotel-Naladhu/index.html
+/posts/Suites-Providence/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Hotel-Naladhu/
+/posts/Suites-Providence/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Lodge-Osa-Peninsula/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Lodge-Osa-Peninsula/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Safari-Camp-Ubud/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Safari-Camp-Ubud/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Safari-Camp-Chiang-Mai/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Safari-Camp-Chiang-Mai/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Safari-Camp-Pacuare/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Safari-Camp-Pacuare/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Safari-Camp-Grosso/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Safari-Camp-Grosso/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Ecolodge-Pacuare/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Ecolodge-Pacuare/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Lodge-Chiang-Mai/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Lodge-Chiang-Mai/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /posts/Resort-Zighy-Bay/index.html
@@ -440,9 +415,19 @@
 /posts/Resort-Zighy-Bay/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Camp-Naladhu/index.html
+/posts/Hotel-Naladhu/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Camp-Naladhu/
+/posts/Hotel-Naladhu/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Château-Cipriani/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Château-Cipriani/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Palace-Castille/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Palace-Castille/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /posts/Ecolodge-Sabi-Sands/index.html
@@ -450,9 +435,9 @@
 /posts/Ecolodge-Sabi-Sands/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Ranch-Brush-Creek/index.html
+/posts/Château-Shoreditch/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Ranch-Brush-Creek/
+/posts/Château-Shoreditch/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /posts/Ranch-Paracas/index.html
@@ -460,34 +445,9 @@
 /posts/Ranch-Paracas/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Hotel-&-Spa-Cipriani/index.html
+/posts/Ranch-Brush-Creek/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Hotel-&-Spa-Cipriani/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Château-Bristol/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Château-Bristol/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Camp-Paracas/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Camp-Paracas/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Inn-Madikew-Game-Reserve/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Inn-Madikew-Game-Reserve/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Guest-House-Aqua-Beach/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Guest-House-Aqua-Beach/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Hotel-&-Spa-Kensington/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Hotel-&-Spa-Kensington/
+/posts/Ranch-Brush-Creek/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /posts/Lodge-Paradise-Beach/index.html
@@ -495,9 +455,14 @@
 /posts/Lodge-Paradise-Beach/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Camp-Ubud/index.html
+/posts/Inn-Bristol/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Camp-Ubud/
+/posts/Inn-Bristol/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Château-Marylebone/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Château-Marylebone/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /posts/Lodge-San-Ignacio/index.html
@@ -505,24 +470,49 @@
 /posts/Lodge-San-Ignacio/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Palace-Gritti-Palace/index.html
+/posts/Camp-Ubud/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Palace-Gritti-Palace/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Hotel-&-Spa-Victoria/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Hotel-&-Spa-Victoria/
+/posts/Camp-Ubud/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Hotel-di-Positano/index.html
+/posts/Guest-House-Paradise-Beach/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Hotel-di-Positano/
+/posts/Guest-House-Paradise-Beach/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Hotel-&-Spa-St.-Barts/index.html
+/posts/Safari-Camp-Puerto-Maldonado/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Hotel-&-Spa-St.-Barts/
+/posts/Safari-Camp-Puerto-Maldonado/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Ranch-Pacuare/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Ranch-Pacuare/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Ecolodge-San-Ignacio/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Ecolodge-San-Ignacio/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Camp-Osa-Peninsula/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Camp-Osa-Peninsula/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Suites-Bristol/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Suites-Bristol/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Ecolodge-Grosso/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Ecolodge-Grosso/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Guest-House-Ocean-Sunset/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Guest-House-Ocean-Sunset/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /posts/Private-Island-Paracas/index.html
@@ -530,9 +520,9 @@
 /posts/Private-Island-Paracas/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Guest-House-Ocean-Sunset/index.html
+/posts/Hotel-&-Spa-St.-Barts/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Guest-House-Ocean-Sunset/
+/posts/Hotel-&-Spa-St.-Barts/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /posts/Resort-Ocean-Sunset/index.html
@@ -545,29 +535,44 @@
 /posts/Suites-Ocean-View/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Château-Marylebone/index.html
+/posts/Palace-Gritti-Palace/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Château-Marylebone/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Inn-Bristol/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Inn-Bristol/
+/posts/Palace-Gritti-Palace/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Château-Providence/index.html
+/posts/Hotel-&-Spa-Victoria/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Château-Providence/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Hotel-Providence/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Hotel-Providence/
+/posts/Hotel-&-Spa-Victoria/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Lodge-Osa-Peninsula/index.html
+/posts/Inn-Madikew-Game-Reserve/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Lodge-Osa-Peninsula/
+/posts/Inn-Madikew-Game-Reserve/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Camp-Paracas/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Camp-Paracas/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Lodge-Grosso/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Lodge-Grosso/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Inn-Sant'Andrea/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Inn-Sant'Andrea/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Safari-Camp-San-Ignacio/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Safari-Camp-San-Ignacio/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Ranch-Puerto-Maldonado/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Ranch-Puerto-Maldonado/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /posts/Hotel-&-Spa-Ocean-View/index.html
@@ -580,9 +585,14 @@
 /posts/Suites-Sandy-Dunes/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Camp-Rift-Valley/index.html
+/posts/Lodge-Ubud/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Camp-Rift-Valley/
+/posts/Lodge-Ubud/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Camp-Naladhu/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Camp-Naladhu/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /posts/Safari-Camp-Osa-Peninsula/index.html
@@ -590,49 +600,9 @@
 /posts/Safari-Camp-Osa-Peninsula/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/page-list/3/index.html
+/posts/Lodge-Pacuare/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/page-list/3/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/tags/camp-madikew-game-reserve/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/camp-madikew-game-reserve/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Camp-Yasuni-National-Park/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Camp-Yasuni-National-Park/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Ecolodge-Paracas/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Ecolodge-Paracas/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Inn-Sant'Andrea/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Inn-Sant'Andrea/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Ranch-Puerto-Maldonado/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Ranch-Puerto-Maldonado/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Suites-Bristol/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Suites-Bristol/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Lodge-Ubud/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Lodge-Ubud/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Guest-House-Paradise-Beach/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Guest-House-Paradise-Beach/
+/posts/Lodge-Pacuare/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /posts/Ranch-Mashpi/index.html
@@ -640,29 +610,39 @@
 /posts/Ranch-Mashpi/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Lodge-Pacuare/index.html
+/posts/Ranch-Naladhu/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Lodge-Pacuare/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Lodge-Grosso/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Lodge-Grosso/
+/posts/Ranch-Naladhu/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Safari-Camp-San-Ignacio/index.html
+/posts/Ecolodge-Paracas/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Safari-Camp-San-Ignacio/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Ecolodge-Grosso/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Ecolodge-Grosso/
+/posts/Ecolodge-Paracas/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Camp-Osa-Peninsula/index.html
+/posts/Private-Island-Ocean-Sunset/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Camp-Osa-Peninsula/
+/posts/Private-Island-Ocean-Sunset/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Hotel-&-Spa-Cipriani/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Hotel-&-Spa-Cipriani/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Château-Bristol/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Château-Bristol/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Hotel-Providence/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Hotel-Providence/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Château-Providence/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Château-Providence/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /posts/Inn-Singapore/index.html
@@ -670,24 +650,24 @@
 /posts/Inn-Singapore/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/posts/Ranch-Naladhu/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Ranch-Naladhu/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Hotel-Aqua-Beach/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Hotel-Aqua-Beach/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
 /posts/Suites-Kensington/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /posts/Suites-Kensington/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
+/tags/camp-paracas/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/tags/camp-paracas/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
 /page-list/4/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /page-list/4/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Safari-Camp-Yasuni-National-Park/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Safari-Camp-Yasuni-National-Park/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/jungle/index.html
@@ -710,14 +690,9 @@
 /page-list/6/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/camp-paracas/index.html
+/tags/camp-puerto-maldonado/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/camp-paracas/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Safari-Camp-Yasuni-National-Park/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Safari-Camp-Yasuni-National-Park/
+/tags/camp-puerto-maldonado/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /page-list/7/index.html
@@ -725,9 +700,9 @@
 /page-list/7/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/camp-puerto-maldonado/index.html
+/tags/camp-rift-valley/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/camp-puerto-maldonado/
+/tags/camp-rift-valley/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /page-list/8/index.html
@@ -735,9 +710,9 @@
 /page-list/8/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/camp-rift-valley/index.html
+/tags/camp-sabi-sands/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/camp-rift-valley/
+/tags/camp-sabi-sands/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /page-list/9/index.html
@@ -745,9 +720,9 @@
 /page-list/9/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/camp-sabi-sands/index.html
+/tags/camp-yasuni-national-park/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/camp-sabi-sands/
+/tags/camp-yasuni-national-park/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /page-list/10/index.html
@@ -755,9 +730,9 @@
 /page-list/10/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/camp-yasuni-national-park/index.html
+/tags/camp-ubud/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/camp-yasuni-national-park/
+/tags/camp-ubud/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /page-list/11/index.html
@@ -765,24 +740,14 @@
 /page-list/11/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/camp-ubud/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/camp-ubud/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/page-list/12/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/page-list/12/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
 /tags/city/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/city/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/page-list/13/index.html
+/page-list/12/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/page-list/13/
+/page-list/12/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/chateau-bristol/index.html
@@ -795,14 +760,14 @@
 /tags/chateau/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/chateau-cipriani/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/chateau-cipriani/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
 /tags/chateau-castille/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/chateau-castille/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/tags/chateau-cipriani/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/tags/chateau-cipriani/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/chateau-kensington/index.html
@@ -810,14 +775,14 @@
 /tags/chateau-kensington/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/chateau-providence/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/chateau-providence/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
 /tags/chateau-marylebone/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/chateau-marylebone/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/tags/chateau-providence/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/tags/chateau-providence/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/chateau-shoreditch/index.html
@@ -840,29 +805,24 @@
 /tags/ecolodge/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/ecolodge-madikew-game-reserve/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/ecolodge-madikew-game-reserve/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/posts/Private-Island-Ocean-Sunset/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/posts/Private-Island-Ocean-Sunset/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
 /tags/ecolodge-naladhu/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/ecolodge-naladhu/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/ecolodge-pacuare/index.html
+/tags/ecolodge-madikew-game-reserve/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/ecolodge-pacuare/
+/tags/ecolodge-madikew-game-reserve/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/ecolodge-osa-peninsula/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/ecolodge-osa-peninsula/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/tags/ecolodge-pacuare/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/tags/ecolodge-pacuare/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/ecolodge-paracas/index.html
@@ -878,11 +838,6 @@
 /tags/ecolodge-san-ignacio/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/ecolodge-san-ignacio/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/tags/ecolodge-ubud/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/ecolodge-ubud/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/ecolodge-yasuni-national-park/index.html
@@ -925,11 +880,6 @@
 /tags/guest-house-sandy-dunes/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/guest-house-st.-barts/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/guest-house-st.-barts/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
 /tags/hotel-and-spa-cipriani/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/hotel-and-spa-cipriani/
@@ -938,6 +888,11 @@
 /tags/hotel-and-spa/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/hotel-and-spa/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/tags/guest-house-st.-barts/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/tags/guest-house-st.-barts/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/hotel-and-spa-gritti-palace/index.html
@@ -950,14 +905,14 @@
 /tags/hotel-and-spa-kensington/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/hotel-and-spa-paradise-beach/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/hotel-and-spa-paradise-beach/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
 /tags/hotel-and-spa-ocean-view/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/hotel-and-spa-ocean-view/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/tags/hotel-and-spa-paradise-beach/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/tags/hotel-and-spa-paradise-beach/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/hotel-and-spa-sandy-dunes/index.html
@@ -965,24 +920,29 @@
 /tags/hotel-and-spa-sandy-dunes/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/hotel-and-spa-st.-barts/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/hotel-and-spa-st.-barts/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
 /tags/hotel-and-spa-st-paul&#39;s/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/hotel-and-spa-st-paul&#39;s/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/hotel-and-spa-victoria/index.html
+/tags/hotel-and-spa-st.-barts/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/hotel-and-spa-victoria/
+/tags/hotel-and-spa-st.-barts/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/hotel-and-spa-virgin-gorda/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/hotel-and-spa-virgin-gorda/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/posts/Hotel-Aqua-Beach/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/posts/Hotel-Aqua-Beach/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/tags/hotel-and-spa-victoria/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/tags/hotel-and-spa-victoria/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/hotel-and-spa-zighy-bay/index.html
@@ -1015,24 +975,24 @@
 /tags/hotel-gritti-palace/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/hotel-ocean-view/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/hotel-ocean-view/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
 /tags/hotel-naladhu/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/hotel-naladhu/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/hotel-providence/index.html
+/tags/hotel-ocean-view/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/hotel-providence/
+/tags/hotel-ocean-view/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/hotel-paradise-beach/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/hotel-paradise-beach/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/tags/hotel-providence/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/tags/hotel-providence/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/hotel-shoreditch/index.html
@@ -1080,14 +1040,14 @@
 /tags/inn-madikew-game-reserve/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/inn-naladhu/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/inn-naladhu/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
 /tags/inn-mashpi/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/inn-mashpi/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/tags/inn-naladhu/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/tags/inn-naladhu/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/inn-paracas/index.html
@@ -1100,19 +1060,14 @@
 /tags/inn-sabi-sands/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/inn-sant&#39;andrea/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/inn-sant&#39;andrea/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
 /tags/inn-singapore/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/inn-singapore/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/inn-victoria/index.html
+/tags/inn-sant&#39;andrea/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/inn-victoria/
+/tags/inn-sant&#39;andrea/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/inn-di-carpiano/index.html
@@ -1145,11 +1100,6 @@
 /tags/lodge-ocean-sunset/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/lodge-naladhu/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/lodge-naladhu/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
 /tags/lodge-osa-peninsula/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/lodge-osa-peninsula/
@@ -1160,14 +1110,14 @@
 /tags/lodge-pacuare/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
+/tags/lodge-naladhu/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/tags/lodge-naladhu/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
 /tags/lodge-paradise-beach/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/lodge-paradise-beach/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/tags/lodge-puerto-maldonado/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/lodge-puerto-maldonado/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/lodge-san-ignacio/index.html
@@ -1178,11 +1128,6 @@
 /tags/lodge-ubud/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/lodge-ubud/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/tags/lodge-yasuni-national-park/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/lodge-yasuni-national-park/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/palace-bristol/index.html
@@ -1235,11 +1180,6 @@
 /tags/private-island-paracas/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/private-island-sunset-dream/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/private-island-sunset-dream/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
 /tags/ranch-brush-creek/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/ranch-brush-creek/
@@ -1258,6 +1198,11 @@
 /tags/ranch-madikew-game-reserve/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/ranch-madikew-game-reserve/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/tags/private-island-sunset-dream/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/tags/private-island-sunset-dream/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/ranch-mashpi/index.html
@@ -1285,9 +1230,14 @@
 /tags/ranch-puerto-maldonado/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/resort-sunset-dream/index.html
+/tags/ranch-ubud/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/resort-sunset-dream/
+/tags/ranch-ubud/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/tags/resort-aqua-beach/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/tags/resort-aqua-beach/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/resort/index.html
@@ -1295,14 +1245,14 @@
 /tags/resort/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/ranch-ubud/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/ranch-ubud/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
 /tags/resort-ocean-sunset/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/resort-ocean-sunset/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/tags/resort-sunset-dream/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/tags/resort-sunset-dream/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/resort-white-pebble/index.html
@@ -1310,14 +1260,9 @@
 /tags/resort-white-pebble/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/resort-zighy-bay/index.html
+/tags/safari-camp-osa-peninsula/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/resort-zighy-bay/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/tags/safari-camp-chiang-mai/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/safari-camp-chiang-mai/
+/tags/safari-camp-osa-peninsula/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/safari-camp/index.html
@@ -1325,24 +1270,14 @@
 /tags/safari-camp/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/safari-camp-grosso/index.html
+/tags/safari-camp-puerto-maldonado/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/safari-camp-grosso/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/tags/safari-camp-osa-peninsula/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/safari-camp-osa-peninsula/
+/tags/safari-camp-puerto-maldonado/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/safari-camp-pacuare/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/safari-camp-pacuare/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/tags/safari-camp-puerto-maldonado/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/safari-camp-puerto-maldonado/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/safari-camp-san-ignacio/index.html
@@ -1370,14 +1305,14 @@
 /tags/suites/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/suites-kensington/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/suites-kensington/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
 /tags/suites-ocean-view/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/suites-ocean-view/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/tags/suites-kensington/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/tags/suites-kensington/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/suites-providence/index.html
@@ -1385,29 +1320,19 @@
 /tags/suites-providence/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/suites-sandy-dunes/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/suites-sandy-dunes/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
 /tags/suites-sant&#39;andrea/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/suites-sant&#39;andrea/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/suites-gritti-palace/index.html
+/tags/suites-sandy-dunes/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/suites-gritti-palace/
+/tags/suites-sandy-dunes/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/suites-st-paul&#39;s/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 /tags/suites-st-paul&#39;s/
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-
-/tags/suites-di-positano/index.html
-  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/suites-di-positano/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
 /tags/suites-st.-barts/index.html
@@ -1420,13 +1345,23 @@
 /tags/suites-sunset-dream/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/resort-aqua-beach/index.html
+/tags/suites-di-positano/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/resort-aqua-beach/
+/tags/suites-di-positano/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 
-/tags/ranch-yasuni-national-park/index.html
+/tags/resort-zighy-bay/index.html
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
-/tags/ranch-yasuni-national-park/
+/tags/resort-zighy-bay/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/tags/safari-camp-grosso/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/tags/safari-camp-grosso/
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+
+/tags/safari-camp-chiang-mai/index.html
+  Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
+/tags/safari-camp-chiang-mai/
   Content-Security-Policy: default-src 'self';object-src 'none';script-src 'self' 'sha256-Ky9qZOPnMhQV/s7Fdb9TYAOfU4KtWNqCZaFK8tSzXa0=';style-src 'unsafe-inline';img-src 'self' data:
 # [end csp headers]
