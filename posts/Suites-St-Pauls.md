@@ -1,19 +1,19 @@
 ---
-title: Suites St Paul's
-description: Suites St Paul's is a gastronomical suites...
+title: Suites St Pauls
+description: Suites St Pauls is a gastronomical suites...
 date: 2017-03-12
 scheduled: 2017-03-12
 tags:
 - city
-- Suites St Paul's
+- Suites St Pauls
 - Suites
 layout: layouts/post.njk
 image: "../../img/city/pexels-aleksandar-pasaric-3048538.jpg"
 ---
 
-![Suites St Paul's](../../img/city/pexels-aleksandar-pasaric-3048538.jpg)
+![Suites St Pauls](../../img/city/pexels-aleksandar-pasaric-3048538.jpg)
 
-Suites St Paul's is a gastronomical suites hotel in Vancouver, British Columbia. The hotel is located in the heart of Downtown Vancouver in proximity to shopping, dining and entertainment. Ample underground parking is available at no extra cost.
+Suites St Pauls is a gastronomical suites hotel in Vancouver, British Columbia. The hotel is located in the heart of Downtown Vancouver in proximity to shopping, dining and entertainment. Ample underground parking is available at no extra cost.
 
 Suites St Paul’s is located in the heart of downtown Vancouver at the corner of Hornby Street and Richards Street. The hotel features 186 suites ranging from 400 to 1,500 sq. ft., each with a separate living room, bedroom, kitchenette and en-suite bathroom.
 
