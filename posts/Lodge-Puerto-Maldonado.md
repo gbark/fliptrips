@@ -8,10 +8,10 @@ tags:
   - Lodge Puerto Maldonado
   - Lodge
 layout: layouts/post.njk
-image: "../../img/jungle/pexels-david-riaño-cortés-975771.jpg"
+image: "../../img/jungle/pexels-david-riano-cortes-975771.jpg"
 ---
 
-![Lodge Puerto Maldonado](../../img/jungle/pexels-david-riaño-cortés-975771.jpg)
+![Lodge Puerto Maldonado](../../img/jungle/pexels-david-riano-cortes-975771.jpg)
 
 Lodge Puerto Maldonado is a breathtaking lodge set in the heart of the Madre de Dios region. The lodge is surrounded by an immense amount of wildlife and its aerial view allows you to spot animals from a distance. The lodge is located 100km from Cuzco and is situated in the town of Puerto Maldonado, which has an international airport. This lodge provides comfortable accommodations and delicious meals.
 

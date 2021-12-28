@@ -8,10 +8,10 @@ tags:
 - Lodge Yasuni National Park
 - Lodge
 layout: layouts/post.njk
-image: "../../img/jungle/pexels-pierre-blaché-2901215.jpg"
+image: "../../img/jungle/pexels-pierre-blache-2901215.jpg"
 ---
 
-![Lodge Yasuni National Park](../../img/jungle/pexels-pierre-blaché-2901215.jpg)
+![Lodge Yasuni National Park](../../img/jungle/pexels-pierre-blache-2901215.jpg)
 
 Lodge Yasuni National Park is a magical lodge that is located inside Yasuni National Park in Ecuador. It was built in order to help preserve the wildlife and jungle of the area. The lodge serves as a gateway for researchers, conservationists, environmentalists, travelers and anyone who wants to experience nature at its best.
 

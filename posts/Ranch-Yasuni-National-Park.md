@@ -8,10 +8,10 @@ tags:
 - Ranch Yasuni National Park
 - Ranch
 layout: layouts/post.njk
-image: "../../img/jungle/pexels-iván-rivero-1001965.jpg"
+image: "../../img/jungle/pexels-ivan-rivero-1001965.jpg"
 ---
 
-![Ranch Yasuni National Park](../../img/jungle/pexels-iván-rivero-1001965.jpg)
+![Ranch Yasuni National Park](../../img/jungle/pexels-ivan-rivero-1001965.jpg)
 
 Ranch Yasuni National Park is a breathtaking ranch which spans a diverse ecosystem of tropical rainforest and wetlands. The ranch is a perfect place for those who want to have a deeper understanding of the rainforest as well as those who want to enjoy the outdoors.
 
