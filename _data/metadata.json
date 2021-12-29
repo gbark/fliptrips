@@ -1,13 +1,13 @@
 {
-  "title": "A travel blog",
+  "title": "Gustaf Barkeling - My travel diary and trip reviews",
   "url": "https://heyletsgo.casa",
   "domain": "heyletsgo.casa",
-  "description": "A travel blog",
+  "description": "This travel blog is where I share the good, the bad, and the ugly about all the places I've been. Nothing is too small or too big to be shared with you.",
   "genre": "TouristTrip",
   "googleAnalyticsId": "UA-213438928-1",
   "sendWebVitals": false,
   "feed": {
-    "subtitle": "A travel blog",
+    "subtitle": "Gustaf Barkeling - Travel blog - This travel blog is where I share the good, the bad, and the ugly about all the places I've been. Nothing is too small or too big to be shared with you.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://heyletsgo.casa"
