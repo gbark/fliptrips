@@ -95,6 +95,7 @@ header aside {
 #nav {
   z-index: 2;
   position: relative;
+  display: flex;
 }
 
 #reading-progress {
@@ -909,17 +910,19 @@ header nav {
   text-align: right;
 }
 header nav h1 {
-  float: left;
   font-size: inherit;
   line-height: inherit;
   margin: 0;
   text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 header nav a {
-  font-weight: 700;
-  text-decoration: none;
+  font-weight: 400;
+  text-decoration: underline lightsteelblue;
   font-family: var(--font-family);
-  color: #181818;
+  color: var(--primary);
   margin-left: 1.5em;
 }
 header nav a:first-of-type {
