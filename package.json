@@ -14,7 +14,9 @@
     "test": "mocha test/test*.js",
     "test-watch": "mocha test/test*.js --watch",
     "clean": "rm -Rf ./_site/posts/*",
-    "generate-content": "node ./content-generation/post.js"
+    "generate-content": "node ./content-generation/post.js",
+    "netlify-deploy": "npm run build && netlify deploy",
+    "netlify-deploy-prod": "npm run build && netlify deploy --prod"
   },
   "pre-push": [
     "build"
